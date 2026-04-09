@@ -1,0 +1,241 @@
+[
+  {
+    "id": "ALRT-001",
+    "timestamp": "2025-01-02T08:15:22",
+    "sender": "SYSTEM_AI",
+    "type": "CONGESTION",
+    "priority": "HIGH",
+    "message": "AI Predictor: Route R-276 (Vidyaranyapura) is exceeding 90% capacity. Suggesting immediate dispatch of standby bus KA-01-F-1122.",
+    "status": "UNREAD",
+    "route_id": "R-276"
+  },
+  {
+    "id": "ALRT-002",
+    "timestamp": "2025-01-02T08:20:10",
+    "sender": "U002",
+    "type": "SOS",
+    "priority": "CRITICAL",
+    "message": "EMERGENCY: Passenger medical distress on Bus KA-01-F-1234. Requesting ambulance at BEL Circle stop.",
+    "status": "ACTIVE",
+    "location": [
+      13.045,
+      77.562
+    ],
+    "bus_id": "KA-01-F-1234"
+  },
+  {
+    "id": "ALRT-003",
+    "timestamp": "2025-01-02T08:45:00",
+    "sender": "U001",
+    "type": "BROADCAST",
+    "priority": "MEDIUM",
+    "message": "ATTN ALL DRIVERS: Heavy waterlogging reported near Silk Board flyover. Expect 20-minute delays on R-500D.",
+    "status": "SENT"
+  },
+  {
+    "id": "ALRT-004",
+    "timestamp": "2025-01-02T09:10:15",
+    "sender": "U003",
+    "type": "BREAKDOWN",
+    "priority": "HIGH",
+    "message": "Mechanical Failure: Engine overheating on Bus KA-01-F-5678. Vehicle stationary at Manyata Tech Park.",
+    "status": "RESOLVED",
+    "location": [
+      13.02,
+      77.62
+    ],
+    "bus_id": "KA-01-F-5678"
+  },
+  {
+    "id": "ALRT-005",
+    "timestamp": "2025-01-02T09:30:45",
+    "sender": "SYSTEM_AI",
+    "type": "EFFICIENCY",
+    "priority": "LOW",
+    "message": "Optimization Note: Route R-102 currently has 3 buses running at <10% occupancy. Suggesting merge of trips.",
+    "status": "UNREAD",
+    "route_id": "R-102"
+  },
+  {
+    "id": "ALRT-006",
+    "timestamp": "2025-01-02T10:05:12",
+    "sender": "U005",
+    "type": "TRAFFIC",
+    "priority": "MEDIUM",
+    "message": "Traffic Report: Road blockage due to protest at Majestic Entrance. Divert via Anand Rao Circle.",
+    "status": "ACTIVE",
+    "bus_id": "KA-05-FA-9901"
+  },
+  {
+    "id": "ALRT-007",
+    "timestamp": "2025-01-02T11:00:00",
+    "sender": "SYSTEM_AI",
+    "type": "PREDICTION",
+    "priority": "MEDIUM",
+    "message": "Demand Spike Forecast: Heavy passenger inflow expected at Electronic City Phase 1 between 17:00 and 19:00.",
+    "status": "UNREAD"
+  },
+  {
+    "id": "ALRT-008",
+    "timestamp": "2025-01-02T12:15:33",
+    "sender": "U002",
+    "type": "SOS",
+    "priority": "CRITICAL",
+    "message": "SAFETY ALERT: Physical altercation reported on Bus KA-01-F-1234. Local police notified via Safety Shield.",
+    "status": "ACTIVE",
+    "location": [
+      12.97,
+      77.57
+    ]
+  },
+  {
+    "id": "ALRT-009",
+    "timestamp": "2025-01-02T13:45:10",
+    "sender": "U001",
+    "type": "INFO",
+    "priority": "LOW",
+    "message": "Shift Change Reminder: All afternoon shift conductors please report for briefing at 14:00.",
+    "status": "SENT"
+  },
+  {
+    "id": "ALRT-010",
+    "timestamp": "2025-01-02T14:20:22",
+    "sender": "SYSTEM_AI",
+    "type": "CONGESTION",
+    "priority": "HIGH",
+    "message": "CRITICAL LOAD: Bus KA-03-G-4422 (R-500D) is at 105% capacity. Requesting skip-stop protocol for next 2 stops.",
+    "status": "UNREAD",
+    "bus_id": "KA-03-G-4422"
+  },
+  {
+    "id": "ALRT-011",
+    "timestamp": "2025-01-02T15:10:05",
+    "sender": "U008",
+    "type": "TRAFFIC",
+    "priority": "LOW",
+    "message": "Minor Traffic: Slow moving vehicles near Hebbal flyover due to stalled truck.",
+    "status": "RESOLVED"
+  },
+  {
+    "id": "ALRT-012",
+    "timestamp": "2025-01-02T16:00:00",
+    "sender": "SYSTEM_AI",
+    "type": "ALLOCATION",
+    "priority": "MEDIUM",
+    "message": "AI Suggestion: Reassign Bus KA-01-FA-2233 from Route R-12 to Route R-276 to cover peak hour gap.",
+    "status": "UNREAD"
+  },
+  {
+    "id": "ALRT-013",
+    "timestamp": "2025-01-02T16:45:12",
+    "sender": "U004",
+    "type": "BREAKDOWN",
+    "priority": "HIGH",
+    "message": "Tyre Puncture: Bus KA-02-H-7788. Passengers transferred to following bus on R-201.",
+    "status": "ACTIVE",
+    "bus_id": "KA-02-H-7788"
+  },
+  {
+    "id": "ALRT-014",
+    "timestamp": "2025-01-02T17:30:00",
+    "sender": "U001",
+    "type": "BROADCAST",
+    "priority": "MEDIUM",
+    "message": "Weather Alert: Heavy rain starting. Drive with caution and maintain safe following distances.",
+    "status": "SENT"
+  },
+  {
+    "id": "ALRT-015",
+    "timestamp": "2025-01-02T18:10:45",
+    "sender": "SYSTEM_AI",
+    "type": "CONGESTION",
+    "priority": "HIGH",
+    "message": "AI Alert: Cluster of 3 buses detected on R-500D within 500m. Suggesting speed adjustment to normalize headway.",
+    "status": "UNREAD",
+    "route_id": "R-500D"
+  },
+  {
+    "id": "SOS-20260102120001754411",
+    "timestamp": "2026-01-02T12:00:01.754552",
+    "sender": "CONDUCTOR",
+    "type": "SOS",
+    "priority": "CRITICAL",
+    "message": "Passenger emergency SOS",
+    "status": "ACTIVE",
+    "location": [
+      12.92,
+      77.62
+    ],
+    "bus_id": "passenger"
+  },
+  {
+    "id": "SOS-20260102124939801377",
+    "timestamp": "2026-01-02T12:49:39.801434",
+    "sender": "CONDUCTOR",
+    "type": "SOS",
+    "priority": "CRITICAL",
+    "message": "Emergency",
+    "status": "ACTIVE",
+    "location": [
+      12.92,
+      77.62
+    ],
+    "bus_id": "KA-01-F-4532"
+  },
+  {
+    "id": "TRF-20260102124943623099",
+    "timestamp": "2026-01-02T12:49:43.623226",
+    "sender": "CONDUCTOR",
+    "type": "TRAFFIC",
+    "priority": "MEDIUM",
+    "message": "Traffic",
+    "status": "ACTIVE",
+    "location": [
+      12.92,
+      77.62
+    ],
+    "bus_id": "KA-01-F-4532"
+  },
+  {
+    "id": "BRK-20260102124946",
+    "timestamp": "2026-01-02T12:49:46.916605",
+    "sender": "CONDUCTOR",
+    "type": "BREAKDOWN",
+    "priority": "HIGH",
+    "message": "Breakdown Report: Breakdown on Bus KA-01-F-4532",
+    "status": "ACTIVE",
+    "location": [
+      12.92,
+      77.62
+    ],
+    "bus_id": "KA-01-F-4532"
+  },
+  {
+    "id": "BRK-20260102141257",
+    "timestamp": "2026-01-02T14:12:57.221061",
+    "sender": "CONDUCTOR",
+    "type": "BREAKDOWN",
+    "priority": "HIGH",
+    "message": "Breakdown Report: Breakdown on Bus KA-01-F-4532",
+    "status": "ACTIVE",
+    "location": [
+      12.92,
+      77.62
+    ],
+    "bus_id": "KA-01-F-4532"
+  },
+  {
+    "id": "TRF-20260102141259590585",
+    "timestamp": "2026-01-02T14:12:59.590636",
+    "sender": "CONDUCTOR",
+    "type": "TRAFFIC",
+    "priority": "MEDIUM",
+    "message": "Traffic",
+    "status": "ACTIVE",
+    "location": [
+      12.92,
+      77.62
+    ],
+    "bus_id": "KA-01-F-4532"
+  }
+]

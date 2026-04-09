@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 13.0898,
+    "lng": 77.6664,
+    "occupancy_percent": 15,
+    "last_stop": "Hebbal",
+    "speed": "22km/h"
+  },
+  {
+    "id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 13.0303,
+    "lng": 77.6722,
+    "occupancy_percent": 77,
+    "last_stop": "Silk Board",
+    "speed": "15km/h"
+  },
+  {
+    "id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 13.0158,
+    "lng": 77.6987,
+    "occupancy_percent": 65,
+    "last_stop": "Shivajinagar",
+    "speed": "57km/h"
+  },
+  {
+    "id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "status": "IDLE",
+    "lat": 13.0056,
+    "lng": 77.6156,
+    "occupancy_percent": 0,
+    "last_stop": "Nagawara",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "status": "MOVING",
+    "lat": 12.9525,
+    "lng": 77.612,
+    "occupancy_percent": 22,
+    "last_stop": "Whitefield",
+    "speed": "21km/h"
+  },
+  {
+    "id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.9485,
+    "lng": 77.5165,
+    "occupancy_percent": 84,
+    "last_stop": "Tin Factory",
+    "speed": "13km/h"
+  },
+  {
+    "id": "KA-37-H-9306",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 13.0251,
+    "lng": 77.479,
+    "occupancy_percent": 69,
+    "last_stop": "Electronic City",
+    "speed": "45km/h"
+  },
+  {
+    "id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.8539,
+    "lng": 77.5489,
+    "occupancy_percent": 61,
+    "last_stop": "Nagawara",
+    "speed": "27km/h"
+  },
+  {
+    "id": "KA-31-T-6387",
+    "route_id": "R-KBS-1",
+    "status": "IDLE",
+    "lat": 12.9719,
+    "lng": 77.6638,
+    "occupancy_percent": 0,
+    "last_stop": "Kalyan Nagar",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-23-I-6787",
+    "route_id": "R-500D",
+    "status": "IDLE",
+    "lat": 13.0467,
+    "lng": 77.6443,
+    "occupancy_percent": 0,
+    "last_stop": "HSR Layout",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 12.9707,
+    "lng": 77.5434,
+    "occupancy_percent": 53,
+    "last_stop": "Banashankari",
+    "speed": "21km/h"
+  },
+  {
+    "id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "status": "MOVING",
+    "lat": 13.0142,
+    "lng": 77.683,
+    "occupancy_percent": 13,
+    "last_stop": "MG Road",
+    "speed": "33km/h"
+  },
+  {
+    "id": "KA-21-H-2460",
+    "route_id": "R-335E",
+    "status": "IDLE",
+    "lat": 12.9115,
+    "lng": 77.5055,
+    "occupancy_percent": 0,
+    "last_stop": "Whitefield",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-22-GP-0580",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 13.0104,
+    "lng": 77.722,
+    "occupancy_percent": 82,
+    "last_stop": "Jayanagar",
+    "speed": "19km/h"
+  },
+  {
+    "id": "KA-49-G-4630",
+    "route_id": "R-MF-12",
+    "status": "STUCK",
+    "lat": 12.9789,
+    "lng": 77.5567,
+    "occupancy_percent": 77,
+    "last_stop": "Majestic",
+    "speed": "2km/h"
+  },
+  {
+    "id": "KA-13-K-2593",
+    "route_id": "R-365",
+    "status": "IDLE",
+    "lat": 13.0189,
+    "lng": 77.4855,
+    "occupancy_percent": 0,
+    "last_stop": "Nagawara",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-42-H-7276",
+    "route_id": "R-276",
+    "status": "STUCK",
+    "lat": 12.9168,
+    "lng": 77.4774,
+    "occupancy_percent": 89,
+    "last_stop": "Whitefield",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-17-A-6764",
+    "route_id": "R-276",
+    "status": "STUCK",
+    "lat": 13.0644,
+    "lng": 77.5826,
+    "occupancy_percent": 31,
+    "last_stop": "Marathahalli",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-08-TM-9289",
+    "route_id": "R-201",
+    "status": "IDLE",
+    "lat": 13.0443,
+    "lng": 77.626,
+    "occupancy_percent": 0,
+    "last_stop": "Brigade Road",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "status": "MOVING",
+    "lat": 12.8716,
+    "lng": 77.5016,
+    "occupancy_percent": 94,
+    "last_stop": "Brigade Road",
+    "speed": "37km/h"
+  },
+  {
+    "id": "KA-32-Q-3704",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 12.981,
+    "lng": 77.5493,
+    "occupancy_percent": 58,
+    "last_stop": "Silk Board",
+    "speed": "39km/h"
+  },
+  {
+    "id": "KA-46-EP-1123",
+    "route_id": "R-500D",
+    "status": "MOVING",
+    "lat": 12.8598,
+    "lng": 77.719,
+    "occupancy_percent": 80,
+    "last_stop": "Tin Factory",
+    "speed": "48km/h"
+  },
+  {
+    "id": "KA-33-TC-9086",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 12.8722,
+    "lng": 77.5279,
+    "occupancy_percent": 20,
+    "last_stop": "Tin Factory",
+    "speed": "12km/h"
+  },
+  {
+    "id": "KA-38-I-8106",
+    "route_id": "R-V-500C",
+    "status": "STUCK",
+    "lat": 12.9763,
+    "lng": 77.6033,
+    "occupancy_percent": 89,
+    "last_stop": "Majestic",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-13-JE-3190",
+    "route_id": "R-G3",
+    "status": "MOVING",
+    "lat": 13.051,
+    "lng": 77.5874,
+    "occupancy_percent": 61,
+    "last_stop": "Jayanagar",
+    "speed": "60km/h"
+  },
+  {
+    "id": "KA-33-OM-8729",
+    "route_id": "R-365",
+    "status": "MOVING",
+    "lat": 12.9647,
+    "lng": 77.7034,
+    "occupancy_percent": 42,
+    "last_stop": "Malleswaram",
+    "speed": "50km/h"
+  },
+  {
+    "id": "KA-47-H-4762",
+    "route_id": "R-276",
+    "status": "STUCK",
+    "lat": 12.9979,
+    "lng": 77.5914,
+    "occupancy_percent": 79,
+    "last_stop": "Nagawara",
+    "speed": "1km/h"
+  },
+  {
+    "id": "KA-55-C-4059",
+    "route_id": "R-G3",
+    "status": "MOVING",
+    "lat": 12.8572,
+    "lng": 77.5426,
+    "occupancy_percent": 26,
+    "last_stop": "Silk Board",
+    "speed": "14km/h"
+  },
+  {
+    "id": "KA-27-F-7747",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 13.0545,
+    "lng": 77.5515,
+    "occupancy_percent": 21,
+    "last_stop": "Kalyan Nagar",
+    "speed": "48km/h"
+  },
+  {
+    "id": "KA-10-HW-8210",
+    "route_id": "R-G3",
+    "status": "IDLE",
+    "lat": 13.0181,
+    "lng": 77.5025,
+    "occupancy_percent": 0,
+    "last_stop": "Shivajinagar",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-52-QG-0305",
+    "route_id": "R-KBS-1",
+    "status": "STUCK",
+    "lat": 12.8799,
+    "lng": 77.5289,
+    "occupancy_percent": 32,
+    "last_stop": "Brigade Road",
+    "speed": "5km/h"
+  },
+  {
+    "id": "KA-28-X-8713",
+    "route_id": "R-500D",
+    "status": "MOVING",
+    "lat": 12.8921,
+    "lng": 77.6854,
+    "occupancy_percent": 36,
+    "last_stop": "BEL Circle",
+    "speed": "39km/h"
+  },
+  {
+    "id": "KA-02-WO-1140",
+    "route_id": "R-V-500C",
+    "status": "STUCK",
+    "lat": 12.9817,
+    "lng": 77.5557,
+    "occupancy_percent": 91,
+    "last_stop": "Yeshwanthpur",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-12-FA-5658",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 13.0052,
+    "lng": 77.5752,
+    "occupancy_percent": 47,
+    "last_stop": "BEL Circle",
+    "speed": "10km/h"
+  },
+  {
+    "id": "KA-18-G-4105",
+    "route_id": "R-335E",
+    "status": "IDLE",
+    "lat": 12.9548,
+    "lng": 77.6398,
+    "occupancy_percent": 0,
+    "last_stop": "Whitefield",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-20-QA-1645",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 13.0486,
+    "lng": 77.6574,
+    "occupancy_percent": 62,
+    "last_stop": "HSR Layout",
+    "speed": "27km/h"
+  },
+  {
+    "id": "KA-53-C-9751",
+    "route_id": "R-500D",
+    "status": "STUCK",
+    "lat": 13.0176,
+    "lng": 77.5376,
+    "occupancy_percent": 33,
+    "last_stop": "Shivajinagar",
+    "speed": "1km/h"
+  },
+  {
+    "id": "KA-02-JD-0864",
+    "route_id": "R-G3",
+    "status": "STUCK",
+    "lat": 13.0425,
+    "lng": 77.6991,
+    "occupancy_percent": 62,
+    "last_stop": "Indiranagar",
+    "speed": "4km/h"
+  },
+  {
+    "id": "KA-19-RI-7087",
+    "route_id": "R-MF-12",
+    "status": "MOVING",
+    "lat": 12.899,
+    "lng": 77.6478,
+    "occupancy_percent": 51,
+    "last_stop": "Shivajinagar",
+    "speed": "46km/h"
+  },
+  {
+    "id": "KA-41-YG-6776",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 13.0688,
+    "lng": 77.7482,
+    "occupancy_percent": 46,
+    "last_stop": "Marathahalli",
+    "speed": "25km/h"
+  },
+  {
+    "id": "KA-50-ES-4939",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 13.0923,
+    "lng": 77.5081,
+    "occupancy_percent": 71,
+    "last_stop": "Banashankari",
+    "speed": "56km/h"
+  },
+  {
+    "id": "KA-43-HF-3875",
+    "route_id": "R-276",
+    "status": "IDLE",
+    "lat": 12.9949,
+    "lng": 77.5243,
+    "occupancy_percent": 0,
+    "last_stop": "Silk Board",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-27-JM-8798",
+    "route_id": "R-G3",
+    "status": "MOVING",
+    "lat": 12.9997,
+    "lng": 77.4534,
+    "occupancy_percent": 88,
+    "last_stop": "Hebbal",
+    "speed": "23km/h"
+  },
+  {
+    "id": "KA-02-SJ-0831",
+    "route_id": "R-276",
+    "status": "MOVING",
+    "lat": 13.0344,
+    "lng": 77.6784,
+    "occupancy_percent": 19,
+    "last_stop": "Marathahalli",
+    "speed": "26km/h"
+  },
+  {
+    "id": "KA-52-PR-8217",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 13.0814,
+    "lng": 77.6223,
+    "occupancy_percent": 51,
+    "last_stop": "Tin Factory",
+    "speed": "24km/h"
+  },
+  {
+    "id": "KA-18-X-9229",
+    "route_id": "R-V-500C",
+    "status": "IDLE",
+    "lat": 12.8862,
+    "lng": 77.4595,
+    "occupancy_percent": 0,
+    "last_stop": "Brigade Road",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-41-CN-9641",
+    "route_id": "R-V-500C",
+    "status": "IDLE",
+    "lat": 12.9526,
+    "lng": 77.6631,
+    "occupancy_percent": 0,
+    "last_stop": "Yeshwanthpur",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-12-SA-1475",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.9497,
+    "lng": 77.4854,
+    "occupancy_percent": 21,
+    "last_stop": "Koramangala",
+    "speed": "16km/h"
+  },
+  {
+    "id": "KA-37-NE-6664",
+    "route_id": "R-V-500C",
+    "status": "STUCK",
+    "lat": 12.9163,
+    "lng": 77.6901,
+    "occupancy_percent": 67,
+    "last_stop": "Yeshwanthpur",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-29-WG-6745",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.8554,
+    "lng": 77.5347,
+    "occupancy_percent": 39,
+    "last_stop": "Indiranagar",
+    "speed": "50km/h"
+  },
+  {
+    "id": "KA-55-T-1939",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 12.9061,
+    "lng": 77.659,
+    "occupancy_percent": 97,
+    "last_stop": "Whitefield",
+    "speed": "24km/h"
+  },
+  {
+    "id": "KA-21-L-5674",
+    "route_id": "R-MF-12",
+    "status": "IDLE",
+    "lat": 13.0225,
+    "lng": 77.6473,
+    "occupancy_percent": 0,
+    "last_stop": "Hebbal",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-21-AK-1099",
+    "route_id": "R-335E",
+    "status": "STUCK",
+    "lat": 12.9212,
+    "lng": 77.4724,
+    "occupancy_percent": 67,
+    "last_stop": "Kalyan Nagar",
+    "speed": "5km/h"
+  },
+  {
+    "id": "KA-21-BB-9231",
+    "route_id": "R-276",
+    "status": "STUCK",
+    "lat": 13.0522,
+    "lng": 77.6588,
+    "occupancy_percent": 68,
+    "last_stop": "HSR Layout",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-32-EG-4479",
+    "route_id": "R-MF-12",
+    "status": "IDLE",
+    "lat": 12.9873,
+    "lng": 77.7115,
+    "occupancy_percent": 0,
+    "last_stop": "MG Road",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-27-KV-6360",
+    "route_id": "R-365",
+    "status": "STUCK",
+    "lat": 12.8547,
+    "lng": 77.6221,
+    "occupancy_percent": 58,
+    "last_stop": "Brigade Road",
+    "speed": "2km/h"
+  },
+  {
+    "id": "KA-16-DL-1801",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 13.0049,
+    "lng": 77.4893,
+    "occupancy_percent": 61,
+    "last_stop": "Banashankari",
+    "speed": "55km/h"
+  },
+  {
+    "id": "KA-04-U-5996",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 12.8967,
+    "lng": 77.7264,
+    "occupancy_percent": 41,
+    "last_stop": "Tin Factory",
+    "speed": "12km/h"
+  },
+  {
+    "id": "KA-10-W-9282",
+    "route_id": "R-276",
+    "status": "MOVING",
+    "lat": 13.006,
+    "lng": 77.4713,
+    "occupancy_percent": 80,
+    "last_stop": "Brigade Road",
+    "speed": "29km/h"
+  },
+  {
+    "id": "KA-10-GL-0549",
+    "route_id": "R-365",
+    "status": "IDLE",
+    "lat": 12.8611,
+    "lng": 77.5256,
+    "occupancy_percent": 0,
+    "last_stop": "Marathahalli",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-19-V-0648",
+    "route_id": "R-MF-12",
+    "status": "MOVING",
+    "lat": 12.8803,
+    "lng": 77.4743,
+    "occupancy_percent": 57,
+    "last_stop": "Banashankari",
+    "speed": "14km/h"
+  },
+  {
+    "id": "KA-31-B-9387",
+    "route_id": "R-KBS-1",
+    "status": "IDLE",
+    "lat": 12.9622,
+    "lng": 77.6313,
+    "occupancy_percent": 0,
+    "last_stop": "Electronic City",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-41-R-3072",
+    "route_id": "R-276",
+    "status": "MOVING",
+    "lat": 12.991,
+    "lng": 77.565,
+    "occupancy_percent": 90,
+    "last_stop": "Kalyan Nagar",
+    "speed": "20km/h"
+  },
+  {
+    "id": "KA-31-YA-1169",
+    "route_id": "R-335E",
+    "status": "STUCK",
+    "lat": 12.9901,
+    "lng": 77.5273,
+    "occupancy_percent": 99,
+    "last_stop": "Malleswaram",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-51-O-7078",
+    "route_id": "R-500D",
+    "status": "MOVING",
+    "lat": 12.8616,
+    "lng": 77.5384,
+    "occupancy_percent": 21,
+    "last_stop": "Whitefield",
+    "speed": "29km/h"
+  },
+  {
+    "id": "KA-53-H-6378",
+    "route_id": "R-V-500C",
+    "status": "IDLE",
+    "lat": 13.0108,
+    "lng": 77.7398,
+    "occupancy_percent": 0,
+    "last_stop": "Malleswaram",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-57-GS-2751",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 12.9698,
+    "lng": 77.4592,
+    "occupancy_percent": 33,
+    "last_stop": "Majestic",
+    "speed": "35km/h"
+  },
+  {
+    "id": "KA-33-CG-7739",
+    "route_id": "R-V-500C",
+    "status": "STUCK",
+    "lat": 12.8973,
+    "lng": 77.572,
+    "occupancy_percent": 96,
+    "last_stop": "BEL Circle",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-22-J-7744",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.9452,
+    "lng": 77.7238,
+    "occupancy_percent": 63,
+    "last_stop": "Silk Board",
+    "speed": "58km/h"
+  },
+  {
+    "id": "KA-34-EG-0858",
+    "route_id": "R-MF-12",
+    "status": "STUCK",
+    "lat": 12.9182,
+    "lng": 77.5187,
+    "occupancy_percent": 93,
+    "last_stop": "Marathahalli",
+    "speed": "4km/h"
+  },
+  {
+    "id": "KA-55-RN-4486",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 13.0995,
+    "lng": 77.5756,
+    "occupancy_percent": 80,
+    "last_stop": "HSR Layout",
+    "speed": "38km/h"
+  },
+  {
+    "id": "KA-07-U-1907",
+    "route_id": "R-500D",
+    "status": "MOVING",
+    "lat": 12.8888,
+    "lng": 77.7171,
+    "occupancy_percent": 74,
+    "last_stop": "Shivajinagar",
+    "speed": "34km/h"
+  },
+  {
+    "id": "KA-38-DQ-1279",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 12.9131,
+    "lng": 77.6433,
+    "occupancy_percent": 85,
+    "last_stop": "Electronic City",
+    "speed": "10km/h"
+  },
+  {
+    "id": "KA-35-N-3887",
+    "route_id": "R-365",
+    "status": "IDLE",
+    "lat": 12.8532,
+    "lng": 77.4662,
+    "occupancy_percent": 0,
+    "last_stop": "Silk Board",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-45-DR-6569",
+    "route_id": "R-335E",
+    "status": "STUCK",
+    "lat": 13.0167,
+    "lng": 77.5402,
+    "occupancy_percent": 90,
+    "last_stop": "Banashankari",
+    "speed": "3km/h"
+  },
+  {
+    "id": "KA-06-UU-1409",
+    "route_id": "R-KBS-1",
+    "status": "STUCK",
+    "lat": 13.0274,
+    "lng": 77.6126,
+    "occupancy_percent": 69,
+    "last_stop": "BEL Circle",
+    "speed": "5km/h"
+  },
+  {
+    "id": "KA-24-PR-1699",
+    "route_id": "R-G3",
+    "status": "MOVING",
+    "lat": 12.9672,
+    "lng": 77.7251,
+    "occupancy_percent": 93,
+    "last_stop": "Banashankari",
+    "speed": "10km/h"
+  },
+  {
+    "id": "KA-52-AP-2221",
+    "route_id": "R-365",
+    "status": "STUCK",
+    "lat": 12.9003,
+    "lng": 77.6049,
+    "occupancy_percent": 99,
+    "last_stop": "Banashankari",
+    "speed": "1km/h"
+  },
+  {
+    "id": "KA-48-TG-9522",
+    "route_id": "R-365",
+    "status": "MOVING",
+    "lat": 12.9828,
+    "lng": 77.6204,
+    "occupancy_percent": 45,
+    "last_stop": "Kalyan Nagar",
+    "speed": "19km/h"
+  },
+  {
+    "id": "KA-46-GP-9211",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.9626,
+    "lng": 77.7259,
+    "occupancy_percent": 24,
+    "last_stop": "Brigade Road",
+    "speed": "28km/h"
+  },
+  {
+    "id": "KA-36-AF-3271",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 12.9018,
+    "lng": 77.4501,
+    "occupancy_percent": 61,
+    "last_stop": "Malleswaram",
+    "speed": "52km/h"
+  },
+  {
+    "id": "KA-57-Y-8004",
+    "route_id": "R-G3",
+    "status": "STUCK",
+    "lat": 12.9064,
+    "lng": 77.5428,
+    "occupancy_percent": 51,
+    "last_stop": "Marathahalli",
+    "speed": "5km/h"
+  },
+  {
+    "id": "KA-10-O-8653",
+    "route_id": "R-MF-12",
+    "status": "MOVING",
+    "lat": 13.0462,
+    "lng": 77.6725,
+    "occupancy_percent": 30,
+    "last_stop": "Jayanagar",
+    "speed": "28km/h"
+  },
+  {
+    "id": "KA-04-S-2165",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 13.0786,
+    "lng": 77.4742,
+    "occupancy_percent": 37,
+    "last_stop": "Majestic",
+    "speed": "55km/h"
+  },
+  {
+    "id": "KA-19-M-9353",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 12.9031,
+    "lng": 77.5497,
+    "occupancy_percent": 44,
+    "last_stop": "Hebbal",
+    "speed": "24km/h"
+  },
+  {
+    "id": "KA-32-AQ-0268",
+    "route_id": "R-G3",
+    "status": "IDLE",
+    "lat": 12.8703,
+    "lng": 77.7348,
+    "occupancy_percent": 0,
+    "last_stop": "Shivajinagar",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-07-J-5992",
+    "route_id": "R-KBS-1",
+    "status": "STUCK",
+    "lat": 13.0287,
+    "lng": 77.7169,
+    "occupancy_percent": 45,
+    "last_stop": "MG Road",
+    "speed": "4km/h"
+  },
+  {
+    "id": "KA-06-O-3923",
+    "route_id": "R-276",
+    "status": "MOVING",
+    "lat": 13.0512,
+    "lng": 77.5961,
+    "occupancy_percent": 25,
+    "last_stop": "Malleswaram",
+    "speed": "25km/h"
+  },
+  {
+    "id": "KA-44-V-8927",
+    "route_id": "R-KBS-1",
+    "status": "MOVING",
+    "lat": 12.9173,
+    "lng": 77.7365,
+    "occupancy_percent": 89,
+    "last_stop": "Majestic",
+    "speed": "31km/h"
+  },
+  {
+    "id": "KA-04-Q-8152",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 12.9218,
+    "lng": 77.6929,
+    "occupancy_percent": 26,
+    "last_stop": "Silk Board",
+    "speed": "19km/h"
+  },
+  {
+    "id": "KA-53-B-1534",
+    "route_id": "R-G3",
+    "status": "IDLE",
+    "lat": 12.9005,
+    "lng": 77.4913,
+    "occupancy_percent": 0,
+    "last_stop": "Banashankari",
+    "speed": "0km/h"
+  },
+  {
+    "id": "KA-20-C-6777",
+    "route_id": "R-V-500C",
+    "status": "MOVING",
+    "lat": 12.8839,
+    "lng": 77.6097,
+    "occupancy_percent": 16,
+    "last_stop": "Indiranagar",
+    "speed": "29km/h"
+  },
+  {
+    "id": "KA-25-ZC-4145",
+    "route_id": "R-335E",
+    "status": "MOVING",
+    "lat": 13.056,
+    "lng": 77.7093,
+    "occupancy_percent": 89,
+    "last_stop": "MG Road",
+    "speed": "59km/h"
+  },
+  {
+    "id": "KA-08-Y-6344",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 12.9863,
+    "lng": 77.7499,
+    "occupancy_percent": 85,
+    "last_stop": "Malleswaram",
+    "speed": "15km/h"
+  },
+  {
+    "id": "KA-30-H-5998",
+    "route_id": "R-276",
+    "status": "MOVING",
+    "lat": 13.0954,
+    "lng": 77.605,
+    "occupancy_percent": 20,
+    "last_stop": "Koramangala",
+    "speed": "29km/h"
+  },
+  {
+    "id": "KA-05-FZ-5945",
+    "route_id": "R-201",
+    "status": "MOVING",
+    "lat": 12.9776,
+    "lng": 77.6061,
+    "occupancy_percent": 16,
+    "last_stop": "Marathahalli",
+    "speed": "28km/h"
+  },
+  {
+    "id": "KA-38-JE-2395",
+    "route_id": "R-365",
+    "status": "MOVING",
+    "lat": 12.8701,
+    "lng": 77.6301,
+    "occupancy_percent": 31,
+    "last_stop": "Marathahalli",
+    "speed": "31km/h"
+  },
+  {
+    "id": "KA-21-A-5872",
+    "route_id": "R-335E",
+    "status": "STUCK",
+    "lat": 13.0472,
+    "lng": 77.733,
+    "occupancy_percent": 76,
+    "last_stop": "Kalyan Nagar",
+    "speed": "4km/h"
+  },
+  {
+    "id": "KA-18-E-6375",
+    "route_id": "R-276",
+    "status": "STUCK",
+    "lat": 12.9339,
+    "lng": 77.7033,
+    "occupancy_percent": 64,
+    "last_stop": "Malleswaram",
+    "speed": "4km/h"
+  },
+  {
+    "id": "KA-19-B-6976",
+    "route_id": "R-G3",
+    "status": "STUCK",
+    "lat": 12.9994,
+    "lng": 77.6554,
+    "occupancy_percent": 53,
+    "last_stop": "Hebbal",
+    "speed": "1km/h"
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "id": "R-001",
+    "name": "Yelahanka to Majestic",
+    "stops": ["Yelahanka", "Hebbal", "RT Nagar", "Malleswaram", "Majestic"],
+    "coordinates": [[13.10,77.58],[13.06,77.59],[13.03,77.59],[13.00,77.57],[12.97,77.57]]
+  },
+  {
+    "id": "R-002",
+    "name": "Hebbal to Silk Board",
+    "stops": ["Hebbal", "Manyata", "Nagawara", "HSR Layout", "Silk Board"],
+    "coordinates": [[13.04,77.59],[13.03,77.62],[13.02,77.64],[12.94,77.65],[12.91,77.62]]
+  },
+  {
+    "id": "R-003",
+    "name": "Kengeri to KR Puram",
+    "stops": ["Kengeri", "Nayandahalli", "Vijayanagar", "Indiranagar", "KR Puram"],
+    "coordinates": [[12.91,77.48],[12.95,77.52],[12.97,77.54],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-004",
+    "name": "Banashankari to Whitefield",
+    "stops": ["Banashankari", "Jayanagar", "BTM", "Marathahalli", "Whitefield"],
+    "coordinates": [[12.92,77.56],[12.93,77.58],[12.92,77.61],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-005",
+    "name": "Rajajinagar to Electronic City",
+    "stops": ["Rajajinagar", "Majestic", "Lalbagh", "BTM", "Electronic City"],
+    "coordinates": [[12.99,77.55],[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.85,77.66]]
+  },
+  {
+    "id": "R-006",
+    "name": "Yeshwanthpur to KR Puram",
+    "stops": ["Yeshwanthpur", "Hebbal", "Nagawara", "Indiranagar", "KR Puram"],
+    "coordinates": [[13.02,77.55],[13.04,77.59],[13.02,77.64],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-007",
+    "name": "Majestic to Whitefield",
+    "stops": ["Majestic", "MG Road", "Indiranagar", "Marathahalli", "Whitefield"],
+    "coordinates": [[12.97,77.57],[12.97,77.60],[12.98,77.63],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-008",
+    "name": "Vijayanagar to Silk Board",
+    "stops": ["Vijayanagar", "Rajajinagar", "Majestic", "BTM", "Silk Board"],
+    "coordinates": [[12.97,77.54],[12.99,77.55],[12.97,77.57],[12.92,77.61],[12.91,77.62]]
+  },
+  {
+    "id": "R-009",
+    "name": "KR Puram to Banashankari",
+    "stops": ["KR Puram", "Indiranagar", "MG Road", "Jayanagar", "Banashankari"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.97,77.60],[12.93,77.58],[12.92,77.56]]
+  },
+  {
+    "id": "R-010",
+    "name": "Electronic City to Majestic",
+    "stops": ["Electronic City", "BTM", "Lalbagh", "Majestic", "Yeshwanthpur"],
+    "coordinates": [[12.85,77.66],[12.92,77.61],[12.95,77.58],[12.97,77.57],[13.02,77.55]]
+  },
+
+  {
+    "id": "R-011",
+    "name": "Hebbal to Whitefield",
+    "stops": ["Hebbal", "Nagawara", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[13.04,77.59],[13.02,77.64],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+  {
+    "id": "R-012",
+    "name": "Kengeri to Silk Board",
+    "stops": ["Kengeri", "RR Nagar", "Banashankari", "BTM", "Silk Board"],
+    "coordinates": [[12.91,77.48],[12.92,77.52],[12.92,77.56],[12.92,77.61],[12.91,77.62]]
+  },
+  {
+    "id": "R-013",
+    "name": "Yelahanka to KR Puram",
+    "stops": ["Yelahanka", "Hebbal", "Nagawara", "Indiranagar", "KR Puram"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[13.02,77.64],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-014",
+    "name": "Majestic to Electronic City",
+    "stops": ["Majestic", "Lalbagh", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  },
+  {
+    "id": "R-015",
+    "name": "Whitefield to Yeshwanthpur",
+    "stops": ["Whitefield", "Marathahalli", "Nagawara", "Hebbal", "Yeshwanthpur"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[13.02,77.64],[13.04,77.59],[13.02,77.55]]
+  },
+
+  {
+    "id": "R-016",
+    "name": "BTM to KR Puram",
+    "stops": ["BTM", "HSR Layout", "Marathahalli", "Indiranagar", "KR Puram"],
+    "coordinates": [[12.92,77.61],[12.91,77.65],[12.95,77.69],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-017",
+    "name": "Rajajinagar to Whitefield",
+    "stops": ["Rajajinagar", "Majestic", "MG Road", "Marathahalli", "Whitefield"],
+    "coordinates": [[12.99,77.55],[12.97,77.57],[12.97,77.60],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-018",
+    "name": "Silk Board to Yelahanka",
+    "stops": ["Silk Board", "BTM", "Majestic", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.91,77.62],[12.92,77.61],[12.97,77.57],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-019",
+    "name": "KR Puram to Electronic City",
+    "stops": ["KR Puram", "Indiranagar", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  },
+  {
+    "id": "R-020",
+    "name": "Yeshwanthpur to Banashankari",
+    "stops": ["Yeshwanthpur", "Majestic", "Lalbagh", "Jayanagar", "Banashankari"],
+    "coordinates": [[13.02,77.55],[12.97,77.57],[12.95,77.58],[12.93,77.58],[12.92,77.56]]
+  },
+  {
+    "id": "R-021",
+    "name": "Hebbal to Banashankari",
+    "stops": ["Hebbal", "RT Nagar", "Majestic", "Jayanagar", "Banashankari"],
+    "coordinates": [[13.04,77.59],[13.03,77.59],[12.97,77.57],[12.93,77.58],[12.92,77.56]]
+  },
+  {
+    "id": "R-022",
+    "name": "Yelahanka to Silk Board",
+    "stops": ["Yelahanka", "Hebbal", "Majestic", "BTM", "Silk Board"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[12.97,77.57],[12.92,77.61],[12.91,77.62]]
+  },
+  {
+    "id": "R-023",
+    "name": "Kengeri to Whitefield",
+    "stops": ["Kengeri", "RR Nagar", "BTM", "Marathahalli", "Whitefield"],
+    "coordinates": [[12.91,77.48],[12.92,77.52],[12.92,77.61],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-024",
+    "name": "Electronic City to KR Puram",
+    "stops": ["Electronic City", "HSR Layout", "BTM", "Indiranagar", "KR Puram"],
+    "coordinates": [[12.85,77.66],[12.91,77.65],[12.92,77.61],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-025",
+    "name": "Yeshwanthpur to Silk Board",
+    "stops": ["Yeshwanthpur", "Majestic", "Lalbagh", "BTM", "Silk Board"],
+    "coordinates": [[13.02,77.55],[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.91,77.62]]
+  },
+
+  {
+    "id": "R-026",
+    "name": "Majestic to KR Puram",
+    "stops": ["Majestic", "MG Road", "Indiranagar", "CV Raman Nagar", "KR Puram"],
+    "coordinates": [[12.97,77.57],[12.97,77.60],[12.98,77.63],[12.99,77.66],[13.00,77.68]]
+  },
+  {
+    "id": "R-027",
+    "name": "Banashankari to Yelahanka",
+    "stops": ["Banashankari", "Jayanagar", "Majestic", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.92,77.56],[12.93,77.58],[12.97,77.57],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-028",
+    "name": "Whitefield to Kengeri",
+    "stops": ["Whitefield", "Marathahalli", "BTM", "Banashankari", "Kengeri"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[12.92,77.61],[12.92,77.56],[12.91,77.48]]
+  },
+  {
+    "id": "R-029",
+    "name": "KR Puram to Yeshwanthpur",
+    "stops": ["KR Puram", "Indiranagar", "MG Road", "Majestic", "Yeshwanthpur"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.97,77.60],[12.97,77.57],[13.02,77.55]]
+  },
+  {
+    "id": "R-030",
+    "name": "Silk Board to Whitefield",
+    "stops": ["Silk Board", "HSR Layout", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[12.91,77.62],[12.91,77.65],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-031",
+    "name": "Hebbal to Electronic City",
+    "stops": ["Hebbal", "Nagawara", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[13.04,77.59],[13.02,77.64],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  },
+  {
+    "id": "R-032",
+    "name": "Yelahanka to Whitefield",
+    "stops": ["Yelahanka", "Hebbal", "Nagawara", "Marathahalli", "Whitefield"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[13.02,77.64],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-033",
+    "name": "Majestic to Kengeri",
+    "stops": ["Majestic", "Vijayanagar", "Nayandahalli", "RR Nagar", "Kengeri"],
+    "coordinates": [[12.97,77.57],[12.97,77.54],[12.95,77.52],[12.92,77.52],[12.91,77.48]]
+  },
+  {
+    "id": "R-034",
+    "name": "Rajajinagar to Silk Board",
+    "stops": ["Rajajinagar", "Majestic", "Lalbagh", "BTM", "Silk Board"],
+    "coordinates": [[12.99,77.55],[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.91,77.62]]
+  },
+  {
+    "id": "R-035",
+    "name": "BTM to Yelahanka",
+    "stops": ["BTM", "Lalbagh", "Majestic", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.92,77.61],[12.95,77.58],[12.97,77.57],[13.04,77.59],[13.10,77.58]]
+  },
+
+  {
+    "id": "R-036",
+    "name": "KR Puram to Majestic",
+    "stops": ["KR Puram", "Indiranagar", "MG Road", "Majestic", "Yeshwanthpur"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.97,77.60],[12.97,77.57],[13.02,77.55]]
+  },
+  {
+    "id": "R-037",
+    "name": "Whitefield to Silk Board",
+    "stops": ["Whitefield", "Marathahalli", "HSR Layout", "BTM", "Silk Board"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[12.91,77.65],[12.92,77.61],[12.91,77.62]]
+  },
+  {
+    "id": "R-038",
+    "name": "Yeshwanthpur to KR Puram",
+    "stops": ["Yeshwanthpur", "Hebbal", "Nagawara", "Indiranagar", "KR Puram"],
+    "coordinates": [[13.02,77.55],[13.04,77.59],[13.02,77.64],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-039",
+    "name": "Banashankari to Hebbal",
+    "stops": ["Banashankari", "Jayanagar", "Majestic", "RT Nagar", "Hebbal"],
+    "coordinates": [[12.92,77.56],[12.93,77.58],[12.97,77.57],[13.03,77.59],[13.04,77.59]]
+  },
+  {
+    "id": "R-040",
+    "name": "Electronic City to Whitefield",
+    "stops": ["Electronic City", "HSR Layout", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[12.85,77.66],[12.91,77.65],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-041",
+    "name": "Kengeri to Majestic",
+    "stops": ["Kengeri", "RR Nagar", "Nayandahalli", "Vijayanagar", "Majestic"],
+    "coordinates": [[12.91,77.48],[12.92,77.52],[12.95,77.52],[12.97,77.54],[12.97,77.57]]
+  },
+  {
+    "id": "R-042",
+    "name": "Majestic to Banashankari",
+    "stops": ["Majestic", "Lalbagh", "Jayanagar", "Banashankari", "Padmanabhanagar"],
+    "coordinates": [[12.97,77.57],[12.95,77.58],[12.93,77.58],[12.92,77.56],[12.91,77.55]]
+  },
+  {
+    "id": "R-043",
+    "name": "Hebbal to KR Puram",
+    "stops": ["Hebbal", "Nagawara", "Kalyan Nagar", "Ramamurthy Nagar", "KR Puram"],
+    "coordinates": [[13.04,77.59],[13.02,77.64],[13.01,77.65],[13.00,77.66],[13.00,77.68]]
+  },
+  {
+    "id": "R-044",
+    "name": "Yelahanka to Electronic City",
+    "stops": ["Yelahanka", "Hebbal", "Majestic", "BTM", "Electronic City"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[12.97,77.57],[12.92,77.61],[12.85,77.66]]
+  },
+  {
+    "id": "R-045",
+    "name": "Whitefield to Majestic",
+    "stops": ["Whitefield", "ITPL", "Marathahalli", "MG Road", "Majestic"],
+    "coordinates": [[12.98,77.73],[12.97,77.72],[12.95,77.69],[12.97,77.60],[12.97,77.57]]
+  },
+
+  {
+    "id": "R-046",
+    "name": "Silk Board to Kengeri",
+    "stops": ["Silk Board", "BTM", "Banashankari", "RR Nagar", "Kengeri"],
+    "coordinates": [[12.91,77.62],[12.92,77.61],[12.92,77.56],[12.92,77.52],[12.91,77.48]]
+  },
+  {
+    "id": "R-047",
+    "name": "KR Puram to Whitefield",
+    "stops": ["KR Puram", "Hoodi", "ITPL", "Hope Farm", "Whitefield"],
+    "coordinates": [[13.00,77.68],[12.99,77.71],[12.97,77.72],[12.98,77.73],[12.98,77.73]]
+  },
+  {
+    "id": "R-048",
+    "name": "Yeshwanthpur to Electronic City",
+    "stops": ["Yeshwanthpur", "Majestic", "Lalbagh", "BTM", "Electronic City"],
+    "coordinates": [[13.02,77.55],[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.85,77.66]]
+  },
+  {
+    "id": "R-049",
+    "name": "Hebbal to Kengeri",
+    "stops": ["Hebbal", "Majestic", "Vijayanagar", "RR Nagar", "Kengeri"],
+    "coordinates": [[13.04,77.59],[12.97,77.57],[12.97,77.54],[12.92,77.52],[12.91,77.48]]
+  },
+  {
+    "id": "R-050",
+    "name": "Banashankari to Whitefield",
+    "stops": ["Banashankari", "BTM", "HSR Layout", "Marathahalli", "Whitefield"],
+    "coordinates": [[12.92,77.56],[12.92,77.61],[12.91,77.65],[12.95,77.69],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-051",
+    "name": "Majestic to Hebbal",
+    "stops": ["Majestic", "Malleswaram", "RT Nagar", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.97,77.57],[13.00,77.57],[13.03,77.59],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-052",
+    "name": "Whitefield to Electronic City",
+    "stops": ["Whitefield", "Marathahalli", "HSR Layout", "Silk Board", "Electronic City"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[12.91,77.65],[12.91,77.62],[12.85,77.66]]
+  },
+  {
+    "id": "R-053",
+    "name": "Kengeri to Yelahanka",
+    "stops": ["Kengeri", "Vijayanagar", "Majestic", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.91,77.48],[12.97,77.54],[12.97,77.57],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-054",
+    "name": "KR Puram to Silk Board",
+    "stops": ["KR Puram", "Indiranagar", "BTM", "HSR Layout", "Silk Board"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.92,77.61],[12.91,77.65],[12.91,77.62]]
+  },
+  {
+    "id": "R-055",
+    "name": "Yeshwanthpur to Whitefield",
+    "stops": ["Yeshwanthpur", "Hebbal", "Nagawara", "Marathahalli", "Whitefield"],
+    "coordinates": [[13.02,77.55],[13.04,77.59],[13.02,77.64],[12.95,77.69],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-056",
+    "name": "Silk Board to Majestic",
+    "stops": ["Silk Board", "BTM", "Lalbagh", "Majestic", "Malleswaram"],
+    "coordinates": [[12.91,77.62],[12.92,77.61],[12.95,77.58],[12.97,77.57],[13.00,77.57]]
+  },
+  {
+    "id": "R-057",
+    "name": "Hebbal to Whitefield",
+    "stops": ["Hebbal", "Nagawara", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[13.04,77.59],[13.02,77.64],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+  {
+    "id": "R-058",
+    "name": "Majestic to Electronic City",
+    "stops": ["Majestic", "Lalbagh", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  },
+  {
+    "id": "R-059",
+    "name": "Whitefield to Banashankari",
+    "stops": ["Whitefield", "Marathahalli", "BTM", "Jayanagar", "Banashankari"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[12.92,77.61],[12.93,77.58],[12.92,77.56]]
+  },
+  {
+    "id": "R-060",
+    "name": "KR Puram to Kengeri",
+    "stops": ["KR Puram", "Indiranagar", "Majestic", "RR Nagar", "Kengeri"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.97,77.57],[12.92,77.52],[12.91,77.48]]
+  },
+
+  {
+    "id": "R-061",
+    "name": "Yelahanka to Whitefield",
+    "stops": ["Yelahanka", "Hebbal", "Nagawara", "Marathahalli", "Whitefield"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[13.02,77.64],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-062",
+    "name": "Electronic City to Majestic",
+    "stops": ["Electronic City", "BTM", "Lalbagh", "Majestic", "Yeshwanthpur"],
+    "coordinates": [[12.85,77.66],[12.92,77.61],[12.95,77.58],[12.97,77.57],[13.02,77.55]]
+  },
+  {
+    "id": "R-063",
+    "name": "Banashankari to KR Puram",
+    "stops": ["Banashankari", "BTM", "Indiranagar", "CV Raman Nagar", "KR Puram"],
+    "coordinates": [[12.92,77.56],[12.92,77.61],[12.98,77.63],[12.99,77.66],[13.00,77.68]]
+  },
+  {
+    "id": "R-064",
+    "name": "Majestic to Whitefield",
+    "stops": ["Majestic", "MG Road", "Indiranagar", "Marathahalli", "Whitefield"],
+    "coordinates": [[12.97,77.57],[12.97,77.60],[12.98,77.63],[12.95,77.69],[12.98,77.73]]
+  },
+  {
+    "id": "R-065",
+    "name": "Kengeri to Silk Board",
+    "stops": ["Kengeri", "RR Nagar", "Banashankari", "BTM", "Silk Board"],
+    "coordinates": [[12.91,77.48],[12.92,77.52],[12.92,77.56],[12.92,77.61],[12.91,77.62]]
+  },
+
+  {
+    "id": "R-066",
+    "name": "Hebbal to Majestic",
+    "stops": ["Hebbal", "RT Nagar", "Malleswaram", "Majestic", "Vijayanagar"],
+    "coordinates": [[13.04,77.59],[13.03,77.59],[13.00,77.57],[12.97,77.57],[12.97,77.54]]
+  },
+  {
+    "id": "R-067",
+    "name": "Whitefield to Yelahanka",
+    "stops": ["Whitefield", "Marathahalli", "Nagawara", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[13.02,77.64],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-068",
+    "name": "Silk Board to KR Puram",
+    "stops": ["Silk Board", "HSR Layout", "Indiranagar", "CV Raman Nagar", "KR Puram"],
+    "coordinates": [[12.91,77.62],[12.91,77.65],[12.98,77.63],[12.99,77.66],[13.00,77.68]]
+  },
+  {
+    "id": "R-069",
+    "name": "Electronic City to Hebbal",
+    "stops": ["Electronic City", "BTM", "Majestic", "RT Nagar", "Hebbal"],
+    "coordinates": [[12.85,77.66],[12.92,77.61],[12.97,77.57],[13.03,77.59],[13.04,77.59]]
+  },
+  {
+    "id": "R-070",
+    "name": "KR Puram to Banashankari",
+    "stops": ["KR Puram", "Indiranagar", "BTM", "Jayanagar", "Banashankari"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.92,77.61],[12.93,77.58],[12.92,77.56]]
+  },
+
+  {
+    "id": "R-071",
+    "name": "Yeshwanthpur to Kengeri",
+    "stops": ["Yeshwanthpur", "Majestic", "Vijayanagar", "RR Nagar", "Kengeri"],
+    "coordinates": [[13.02,77.55],[12.97,77.57],[12.97,77.54],[12.92,77.52],[12.91,77.48]]
+  },
+  {
+    "id": "R-072",
+    "name": "Whitefield to Silk Board",
+    "stops": ["Whitefield", "Marathahalli", "HSR Layout", "BTM", "Silk Board"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[12.91,77.65],[12.92,77.61],[12.91,77.62]]
+  },
+  {
+    "id": "R-073",
+    "name": "Banashankari to Hebbal",
+    "stops": ["Banashankari", "Jayanagar", "Majestic", "RT Nagar", "Hebbal"],
+    "coordinates": [[12.92,77.56],[12.93,77.58],[12.97,77.57],[13.03,77.59],[13.04,77.59]]
+  },
+  {
+    "id": "R-074",
+    "name": "Majestic to KR Puram",
+    "stops": ["Majestic", "MG Road", "Indiranagar", "CV Raman Nagar", "KR Puram"],
+    "coordinates": [[12.97,77.57],[12.97,77.60],[12.98,77.63],[12.99,77.66],[13.00,77.68]]
+  },
+  {
+    "id": "R-075",
+    "name": "Hebbal to Whitefield",
+    "stops": ["Hebbal", "Nagawara", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[13.04,77.59],[13.02,77.64],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-076",
+    "name": "Silk Board to Majestic",
+    "stops": ["Silk Board", "BTM", "Lalbagh", "Majestic", "Malleswaram"],
+    "coordinates": [[12.91,77.62],[12.92,77.61],[12.95,77.58],[12.97,77.57],[13.00,77.57]]
+  },
+  {
+    "id": "R-077",
+    "name": "Yelahanka to KR Puram",
+    "stops": ["Yelahanka", "Hebbal", "Nagawara", "Indiranagar", "KR Puram"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[13.02,77.64],[12.98,77.63],[13.00,77.68]]
+  },
+  {
+    "id": "R-078",
+    "name": "Whitefield to Kengeri",
+    "stops": ["Whitefield", "Marathahalli", "BTM", "Banashankari", "Kengeri"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[12.92,77.61],[12.92,77.56],[12.91,77.48]]
+  },
+  {
+    "id": "R-079",
+    "name": "KR Puram to Yelahanka",
+    "stops": ["KR Puram", "Indiranagar", "Nagawara", "Hebbal", "Yelahanka"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[13.02,77.64],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-080",
+    "name": "Electronic City to Whitefield",
+    "stops": ["Electronic City", "HSR Layout", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[12.85,77.66],[12.91,77.65],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-081",
+    "name": "Kengeri to Hebbal",
+    "stops": ["Kengeri", "Vijayanagar", "Majestic", "RT Nagar", "Hebbal"],
+    "coordinates": [[12.91,77.48],[12.97,77.54],[12.97,77.57],[13.03,77.59],[13.04,77.59]]
+  },
+  {
+    "id": "R-082",
+    "name": "Majestic to Silk Board",
+    "stops": ["Majestic", "Lalbagh", "BTM", "HSR Layout", "Silk Board"],
+    "coordinates": [[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.91,77.65],[12.91,77.62]]
+  },
+  {
+    "id": "R-083",
+    "name": "Whitefield to KR Puram",
+    "stops": ["Whitefield", "Hoodi", "ITPL", "KR Puram", "Tin Factory"],
+    "coordinates": [[12.98,77.73],[12.99,77.71],[12.97,77.72],[13.00,77.68],[12.99,77.67]]
+  },
+  {
+    "id": "R-084",
+    "name": "Hebbal to Electronic City",
+    "stops": ["Hebbal", "Majestic", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[13.04,77.59],[12.97,77.57],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  },
+  {
+    "id": "R-085",
+    "name": "Banashankari to Whitefield",
+    "stops": ["Banashankari", "BTM", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[12.92,77.56],[12.92,77.61],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+
+  {
+    "id": "R-086",
+    "name": "Silk Board to Yelahanka",
+    "stops": ["Silk Board", "BTM", "Majestic", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.91,77.62],[12.92,77.61],[12.97,77.57],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-087",
+    "name": "KR Puram to Electronic City",
+    "stops": ["KR Puram", "Indiranagar", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[13.00,77.68],[12.98,77.63],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  },
+  {
+    "id": "R-088",
+    "name": "Whitefield to Hebbal",
+    "stops": ["Whitefield", "Marathahalli", "Nagawara", "RT Nagar", "Hebbal"],
+    "coordinates": [[12.98,77.73],[12.95,77.69],[13.02,77.64],[13.03,77.59],[13.04,77.59]]
+  },
+  {
+    "id": "R-089",
+    "name": "Majestic to Yelahanka",
+    "stops": ["Majestic", "Malleswaram", "RT Nagar", "Hebbal", "Yelahanka"],
+    "coordinates": [[12.97,77.57],[13.00,77.57],[13.03,77.59],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-090",
+    "name": "Kengeri to KR Puram",
+    "stops": ["Kengeri", "Vijayanagar", "Majestic", "Indiranagar", "KR Puram"],
+    "coordinates": [[12.91,77.48],[12.97,77.54],[12.97,77.57],[12.98,77.63],[13.00,77.68]]
+  },
+
+  {
+    "id": "R-091",
+    "name": "Yeshwanthpur to Silk Board",
+    "stops": ["Yeshwanthpur", "Majestic", "BTM", "HSR Layout", "Silk Board"],
+    "coordinates": [[13.02,77.55],[12.97,77.57],[12.92,77.61],[12.91,77.65],[12.91,77.62]]
+  },
+  {
+    "id": "R-092",
+    "name": "Hebbal to Banashankari",
+    "stops": ["Hebbal", "RT Nagar", "Majestic", "Jayanagar", "Banashankari"],
+    "coordinates": [[13.04,77.59],[13.03,77.59],[12.97,77.57],[12.93,77.58],[12.92,77.56]]
+  },
+  {
+    "id": "R-093",
+    "name": "Whitefield to Majestic",
+    "stops": ["Whitefield", "ITPL", "Marathahalli", "MG Road", "Majestic"],
+    "coordinates": [[12.98,77.73],[12.97,77.72],[12.95,77.69],[12.97,77.60],[12.97,77.57]]
+  },
+  {
+    "id": "R-094",
+    "name": "KR Puram to Hebbal",
+    "stops": ["KR Puram", "Nagawara", "RT Nagar", "Hebbal", "Yelahanka"],
+    "coordinates": [[13.00,77.68],[13.02,77.64],[13.03,77.59],[13.04,77.59],[13.10,77.58]]
+  },
+  {
+    "id": "R-095",
+    "name": "Banashankari to Kengeri",
+    "stops": ["Banashankari", "RR Nagar", "Nayandahalli", "Vijayanagar", "Kengeri"],
+    "coordinates": [[12.92,77.56],[12.92,77.52],[12.95,77.52],[12.97,77.54],[12.91,77.48]]
+  },
+
+  {
+    "id": "R-096",
+    "name": "Silk Board to Whitefield",
+    "stops": ["Silk Board", "HSR Layout", "Marathahalli", "ITPL", "Whitefield"],
+    "coordinates": [[12.91,77.62],[12.91,77.65],[12.95,77.69],[12.97,77.72],[12.98,77.73]]
+  },
+  {
+    "id": "R-097",
+    "name": "Electronic City to Kengeri",
+    "stops": ["Electronic City", "BTM", "Banashankari", "RR Nagar", "Kengeri"],
+    "coordinates": [[12.85,77.66],[12.92,77.61],[12.92,77.56],[12.92,77.52],[12.91,77.48]]
+  },
+  {
+    "id": "R-098",
+    "name": "Yelahanka to Banashankari",
+    "stops": ["Yelahanka", "Hebbal", "Majestic", "Jayanagar", "Banashankari"],
+    "coordinates": [[13.10,77.58],[13.04,77.59],[12.97,77.57],[12.93,77.58],[12.92,77.56]]
+  },
+  {
+    "id": "R-099",
+    "name": "Hebbal to Silk Board",
+    "stops": ["Hebbal", "Nagawara", "BTM", "HSR Layout", "Silk Board"],
+    "coordinates": [[13.04,77.59],[13.02,77.64],[12.92,77.61],[12.91,77.65],[12.91,77.62]]
+  },
+  {
+    "id": "R-100",
+    "name": "Majestic to Electronic City",
+    "stops": ["Majestic", "Lalbagh", "BTM", "HSR Layout", "Electronic City"],
+    "coordinates": [[12.97,77.57],[12.95,77.58],[12.92,77.61],[12.91,77.65],[12.85,77.66]]
+  }
+
+]

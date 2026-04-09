@@ -1,0 +1,2324 @@
+[
+  {
+    "tid": "T1001",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-276",
+    "timestamp": "2024-01-02T08:15:00",
+    "from": "Vidyaranyapura",
+    "to": "Majestic",
+    "fare": 25
+  },
+  {
+    "tid": "T1002",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-276",
+    "timestamp": "2024-01-02T08:17:00",
+    "from": "Vidyaranyapura",
+    "to": "BEL Circle",
+    "fare": 15
+  },
+  {
+    "tid": "T1003",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-276",
+    "timestamp": "2024-01-02T08:20:00",
+    "from": "BEL Circle",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T1004",
+    "bus_id": "KA-05-FA-9901",
+    "route_id": "R-276",
+    "timestamp": "2024-01-02T09:00:00",
+    "from": "MSRIT",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1005",
+    "bus_id": "KA-01-F-5678",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-02T17:30:00",
+    "from": "Marathahalli",
+    "to": "Silk Board",
+    "fare": 20
+  },
+  {
+    "tid": "T1006",
+    "bus_id": "KA-01-F-5678",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-02T17:45:00",
+    "from": "Manyata",
+    "to": "Silk Board",
+    "fare": 30
+  },
+  {
+    "tid": "T1007",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-276",
+    "timestamp": "2024-01-02T18:00:00",
+    "from": "Majestic",
+    "to": "Vidyaranyapura",
+    "fare": 25
+  },
+  {
+    "tid": "T1008",
+    "bus_id": "KA-03-MH-3344",
+    "route_id": "R-032",
+    "timestamp": "2024-01-03T07:10:00",
+    "from": "Yelahanka",
+    "to": "Hebbal",
+    "fare": 15
+  },
+  {
+    "tid": "T1009",
+    "bus_id": "KA-03-MH-3344",
+    "route_id": "R-032",
+    "timestamp": "2024-01-03T07:25:00",
+    "from": "Hebbal",
+    "to": "Nagawara",
+    "fare": 10
+  },
+  {
+    "tid": "T1010",
+    "bus_id": "KA-03-MH-3344",
+    "route_id": "R-032",
+    "timestamp": "2024-01-03T07:50:00",
+    "from": "Nagawara",
+    "to": "Whitefield",
+    "fare": 35
+  },
+  {
+    "tid": "T1011",
+    "bus_id": "KA-04-TN-7788",
+    "route_id": "R-052",
+    "timestamp": "2024-01-03T08:10:00",
+    "from": "Whitefield",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1012",
+    "bus_id": "KA-04-TN-7788",
+    "route_id": "R-052",
+    "timestamp": "2024-01-03T08:25:00",
+    "from": "Marathahalli",
+    "to": "HSR Layout",
+    "fare": 15
+  },
+  {
+    "tid": "T1013",
+    "bus_id": "KA-04-TN-7788",
+    "route_id": "R-052",
+    "timestamp": "2024-01-03T08:45:00",
+    "from": "HSR Layout",
+    "to": "Electronic City",
+    "fare": 25
+  },
+  {
+    "tid": "T1014",
+    "bus_id": "KA-02-KA-2211",
+    "route_id": "R-014",
+    "timestamp": "2024-01-04T09:00:00",
+    "from": "Majestic",
+    "to": "BTM",
+    "fare": 20
+  },
+  {
+    "tid": "T1015",
+    "bus_id": "KA-02-KA-2211",
+    "route_id": "R-014",
+    "timestamp": "2024-01-04T09:20:00",
+    "from": "BTM",
+    "to": "Electronic City",
+    "fare": 25
+  },
+  {
+    "tid": "T1016",
+    "bus_id": "KA-01-F-8899",
+    "route_id": "R-030",
+    "timestamp": "2024-01-04T17:30:00",
+    "from": "Silk Board",
+    "to": "HSR Layout",
+    "fare": 10
+  },
+  {
+    "tid": "T1017",
+    "bus_id": "KA-01-F-8899",
+    "route_id": "R-030",
+    "timestamp": "2024-01-04T17:50:00",
+    "from": "HSR Layout",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1018",
+    "bus_id": "KA-05-FA-9901",
+    "route_id": "R-041",
+    "timestamp": "2024-01-05T08:00:00",
+    "from": "Kengeri",
+    "to": "Vijayanagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1019",
+    "bus_id": "KA-05-FA-9901",
+    "route_id": "R-041",
+    "timestamp": "2024-01-05T08:20:00",
+    "from": "Vijayanagar",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1020",
+    "bus_id": "KA-09-ZX-4321",
+    "route_id": "R-086",
+    "timestamp": "2024-01-05T18:10:00",
+    "from": "Silk Board",
+    "to": "BTM",
+    "fare": 10
+  },
+  {
+    "tid": "T1021",
+    "bus_id": "KA-09-ZX-4321",
+    "route_id": "R-086",
+    "timestamp": "2024-01-05T18:25:00",
+    "from": "BTM",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T1022",
+    "bus_id": "KA-09-ZX-4321",
+    "route_id": "R-086",
+    "timestamp": "2024-01-05T18:45:00",
+    "from": "Majestic",
+    "to": "Yelahanka",
+    "fare": 30
+  },
+  {
+    "tid": "T1023",
+    "bus_id": "KA-02-KA-5566",
+    "route_id": "R-061",
+    "timestamp": "2024-01-06T07:05:00",
+    "from": "Yelahanka",
+    "to": "Hebbal",
+    "fare": 15
+  },
+  {
+    "tid": "T1024",
+    "bus_id": "KA-02-KA-5566",
+    "route_id": "R-061",
+    "timestamp": "2024-01-06T07:20:00",
+    "from": "Hebbal",
+    "to": "Nagawara",
+    "fare": 10
+  },
+  {
+    "tid": "T1025",
+    "bus_id": "KA-02-KA-5566",
+    "route_id": "R-061",
+    "timestamp": "2024-01-06T07:45:00",
+    "from": "Nagawara",
+    "to": "Whitefield",
+    "fare": 35
+  },
+  {
+    "tid": "T1026",
+    "bus_id": "KA-06-HG-1122",
+    "route_id": "R-064",
+    "timestamp": "2024-01-06T08:10:00",
+    "from": "Majestic",
+    "to": "MG Road",
+    "fare": 10
+  },
+  {
+    "tid": "T1027",
+    "bus_id": "KA-06-HG-1122",
+    "route_id": "R-064",
+    "timestamp": "2024-01-06T08:25:00",
+    "from": "MG Road",
+    "to": "Indiranagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1028",
+    "bus_id": "KA-06-HG-1122",
+    "route_id": "R-064",
+    "timestamp": "2024-01-06T08:45:00",
+    "from": "Indiranagar",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1029",
+    "bus_id": "KA-08-QW-9090",
+    "route_id": "R-037",
+    "timestamp": "2024-01-06T17:30:00",
+    "from": "Whitefield",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1030",
+    "bus_id": "KA-08-QW-9090",
+    "route_id": "R-037",
+    "timestamp": "2024-01-06T17:50:00",
+    "from": "Marathahalli",
+    "to": "Silk Board",
+    "fare": 20
+  },
+  {
+    "tid": "T1031",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-089",
+    "timestamp": "2024-01-07T08:00:00",
+    "from": "Majestic",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1032",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-089",
+    "timestamp": "2024-01-07T08:15:00",
+    "from": "Malleswaram",
+    "to": "Hebbal",
+    "fare": 15
+  },
+  {
+    "tid": "T1033",
+    "bus_id": "KA-01-F-1234",
+    "route_id": "R-089",
+    "timestamp": "2024-01-07T08:35:00",
+    "from": "Hebbal",
+    "to": "Yelahanka",
+    "fare": 15
+  },
+  {
+    "tid": "T1034",
+    "bus_id": "KA-07-LM-7788",
+    "route_id": "R-071",
+    "timestamp": "2024-01-07T09:00:00",
+    "from": "Yeshwanthpur",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1035",
+    "bus_id": "KA-07-LM-7788",
+    "route_id": "R-071",
+    "timestamp": "2024-01-07T09:20:00",
+    "from": "Majestic",
+    "to": "Kengeri",
+    "fare": 25
+  },
+  {
+    "tid": "T1036",
+    "bus_id": "KA-10-NM-6677",
+    "route_id": "R-052",
+    "timestamp": "2024-01-07T17:40:00",
+    "from": "Whitefield",
+    "to": "HSR Layout",
+    "fare": 25
+  },
+  {
+    "tid": "T1037",
+    "bus_id": "KA-10-NM-6677",
+    "route_id": "R-052",
+    "timestamp": "2024-01-07T18:05:00",
+    "from": "HSR Layout",
+    "to": "Electronic City",
+    "fare": 20
+  },
+  {
+    "tid": "T1038",
+    "bus_id": "KA-05-FA-9901",
+    "route_id": "R-049",
+    "timestamp": "2024-01-08T08:10:00",
+    "from": "Hebbal",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1039",
+    "bus_id": "KA-05-FA-9901",
+    "route_id": "R-049",
+    "timestamp": "2024-01-08T08:30:00",
+    "from": "Majestic",
+    "to": "Kengeri",
+    "fare": 25
+  },
+  {
+    "tid": "T1040",
+    "bus_id": "KA-11-OP-4455",
+    "route_id": "R-083",
+    "timestamp": "2024-01-08T17:20:00",
+    "from": "Whitefield",
+    "to": "KR Puram",
+    "fare": 15
+  },
+  {
+    "tid": "T1041",
+    "bus_id": "KA-11-OP-4455",
+    "route_id": "R-083",
+    "timestamp": "2024-01-08T17:35:00",
+    "from": "KR Puram",
+    "to": "Tin Factory",
+    "fare": 10
+  },
+  {
+    "tid": "T1042",
+    "bus_id": "KA-12-RS-2233",
+    "route_id": "R-054",
+    "timestamp": "2024-01-09T07:30:00",
+    "from": "KR Puram",
+    "to": "Indiranagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1043",
+    "bus_id": "KA-12-RS-2233",
+    "route_id": "R-054",
+    "timestamp": "2024-01-09T07:55:00",
+    "from": "Indiranagar",
+    "to": "Silk Board",
+    "fare": 25
+  },
+  {
+    "tid": "T1044",
+    "bus_id": "KA-03-MH-3344",
+    "route_id": "R-018",
+    "timestamp": "2024-01-09T18:00:00",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 30
+  },
+  {
+    "tid": "T1045",
+    "bus_id": "KA-03-MH-3344",
+    "route_id": "R-018",
+    "timestamp": "2024-01-09T18:25:00",
+    "from": "Majestic",
+    "to": "Yelahanka",
+    "fare": 30
+  },
+  {
+    "tid": "T1046",
+    "bus_id": "KA-13-TT-8899",
+    "route_id": "R-095",
+    "timestamp": "2024-01-10T08:00:00",
+    "from": "Banashankari",
+    "to": "Vijayanagar",
+    "fare": 20
+  },
+  {
+    "tid": "T1047",
+    "bus_id": "KA-13-TT-8899",
+    "route_id": "R-095",
+    "timestamp": "2024-01-10T08:20:00",
+    "from": "Vijayanagar",
+    "to": "Kengeri",
+    "fare": 15
+  },
+  {
+    "tid": "T1048",
+    "bus_id": "KA-14-UU-5566",
+    "route_id": "R-080",
+    "timestamp": "2024-01-10T17:30:00",
+    "from": "Electronic City",
+    "to": "Marathahalli",
+    "fare": 30
+  },
+  {
+    "tid": "T1049",
+    "bus_id": "KA-14-UU-5566",
+    "route_id": "R-080",
+    "timestamp": "2024-01-10T18:00:00",
+    "from": "Marathahalli",
+    "to": "Whitefield",
+    "fare": 20
+  },
+  {
+    "tid": "T1050",
+    "bus_id": "KA-15-VV-1010",
+    "route_id": "R-070",
+    "timestamp": "2024-01-11T08:10:00",
+    "from": "KR Puram",
+    "to": "BTM",
+    "fare": 25
+  },
+  {
+    "tid": "T1051",
+    "bus_id": "KA-15-VV-1010",
+    "route_id": "R-070",
+    "timestamp": "2024-01-11T08:30:00",
+    "from": "BTM",
+    "to": "Banashankari",
+    "fare": 15
+  },
+  {
+    "tid": "T1052",
+    "bus_id": "KA-16-WX-2222",
+    "route_id": "R-032",
+    "timestamp": "2024-01-11T17:20:00",
+    "from": "Whitefield",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1053",
+    "bus_id": "KA-16-WX-2222",
+    "route_id": "R-032",
+    "timestamp": "2024-01-11T17:45:00",
+    "from": "Marathahalli",
+    "to": "Hebbal",
+    "fare": 25
+  },
+  {
+    "tid": "T1054",
+    "bus_id": "KA-17-YY-3333",
+    "route_id": "R-041",
+    "timestamp": "2024-01-12T07:40:00",
+    "from": "Kengeri",
+    "to": "RR Nagar",
+    "fare": 10
+  },
+  {
+    "tid": "T1055",
+    "bus_id": "KA-17-YY-3333",
+    "route_id": "R-041",
+    "timestamp": "2024-01-12T08:00:00",
+    "from": "RR Nagar",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T1056",
+    "bus_id": "KA-18-ZZ-4444",
+    "route_id": "R-064",
+    "timestamp": "2024-01-12T08:30:00",
+    "from": "Majestic",
+    "to": "Indiranagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1057",
+    "bus_id": "KA-18-ZZ-4444",
+    "route_id": "R-064",
+    "timestamp": "2024-01-12T08:55:00",
+    "from": "Indiranagar",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1058",
+    "bus_id": "KA-19-AA-5555",
+    "route_id": "R-071",
+    "timestamp": "2024-01-12T17:30:00",
+    "from": "Yeshwanthpur",
+    "to": "Vijayanagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1059",
+    "bus_id": "KA-19-AA-5555",
+    "route_id": "R-071",
+    "timestamp": "2024-01-12T17:55:00",
+    "from": "Vijayanagar",
+    "to": "Kengeri",
+    "fare": 15
+  },
+  {
+    "tid": "T1060",
+    "bus_id": "KA-20-BB-6666",
+    "route_id": "R-018",
+    "timestamp": "2024-01-13T08:10:00",
+    "from": "Silk Board",
+    "to": "BTM",
+    "fare": 10
+  },
+  {
+    "tid": "T1061",
+    "bus_id": "KA-20-BB-6666",
+    "route_id": "R-018",
+    "timestamp": "2024-01-13T08:35:00",
+    "from": "BTM",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T1062",
+    "bus_id": "KA-21-CC-7777",
+    "route_id": "R-052",
+    "timestamp": "2024-01-13T17:40:00",
+    "from": "Electronic City",
+    "to": "HSR Layout",
+    "fare": 20
+  },
+  {
+    "tid": "T1063",
+    "bus_id": "KA-21-CC-7777",
+    "route_id": "R-052",
+    "timestamp": "2024-01-13T18:05:00",
+    "from": "HSR Layout",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1064",
+    "bus_id": "KA-22-DD-8888",
+    "route_id": "R-089",
+    "timestamp": "2024-01-14T07:50:00",
+    "from": "Yelahanka",
+    "to": "Hebbal",
+    "fare": 15
+  },
+  {
+    "tid": "T1065",
+    "bus_id": "KA-22-DD-8888",
+    "route_id": "R-089",
+    "timestamp": "2024-01-14T08:10:00",
+    "from": "Hebbal",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1066",
+    "bus_id": "KA-23-EE-9999",
+    "route_id": "R-030",
+    "timestamp": "2024-01-14T17:20:00",
+    "from": "Silk Board",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1067",
+    "bus_id": "KA-23-EE-9999",
+    "route_id": "R-030",
+    "timestamp": "2024-01-14T17:45:00",
+    "from": "Marathahalli",
+    "to": "Whitefield",
+    "fare": 20
+  },
+  {
+    "tid": "T1068",
+    "bus_id": "KA-24-FF-1212",
+    "route_id": "R-049",
+    "timestamp": "2024-01-15T08:00:00",
+    "from": "Hebbal",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1069",
+    "bus_id": "KA-24-FF-1212",
+    "route_id": "R-049",
+    "timestamp": "2024-01-15T08:25:00",
+    "from": "Majestic",
+    "to": "Kengeri",
+    "fare": 25
+  },
+  {
+    "tid": "T1070",
+    "bus_id": "KA-25-GG-3434",
+    "route_id": "R-095",
+    "timestamp": "2024-01-15T17:30:00",
+    "from": "Banashankari",
+    "to": "RR Nagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1071",
+    "bus_id": "KA-25-GG-3434",
+    "route_id": "R-095",
+    "timestamp": "2024-01-15T17:55:00",
+    "from": "RR Nagar",
+    "to": "Kengeri",
+    "fare": 10
+  },
+  {
+    "tid": "T1072",
+    "bus_id": "KA-26-HH-5656",
+    "route_id": "R-080",
+    "timestamp": "2024-01-16T08:10:00",
+    "from": "Electronic City",
+    "to": "HSR Layout",
+    "fare": 15
+  },
+  {
+    "tid": "T1073",
+    "bus_id": "KA-26-HH-5656",
+    "route_id": "R-080",
+    "timestamp": "2024-01-16T08:40:00",
+    "from": "HSR Layout",
+    "to": "Whitefield",
+    "fare": 35
+  },
+  {
+    "tid": "T1074",
+    "bus_id": "KA-27-JJ-7878",
+    "route_id": "R-070",
+    "timestamp": "2024-01-16T17:20:00",
+    "from": "Banashankari",
+    "to": "Jayanagar",
+    "fare": 10
+  },
+  {
+    "tid": "T1075",
+    "bus_id": "KA-27-JJ-7878",
+    "route_id": "R-070",
+    "timestamp": "2024-01-16T17:45:00",
+    "from": "Jayanagar",
+    "to": "KR Puram",
+    "fare": 30
+  },
+  {
+    "tid": "T1076",
+    "bus_id": "KA-28-KK-9090",
+    "route_id": "R-037",
+    "timestamp": "2024-01-17T08:00:00",
+    "from": "Whitefield",
+    "to": "HSR Layout",
+    "fare": 25
+  },
+  {
+    "tid": "T1077",
+    "bus_id": "KA-28-KK-9090",
+    "route_id": "R-037",
+    "timestamp": "2024-01-17T08:30:00",
+    "from": "HSR Layout",
+    "to": "Silk Board",
+    "fare": 10
+  },
+  {
+    "tid": "T1078",
+    "bus_id": "KA-29-LL-1010",
+    "route_id": "R-086",
+    "timestamp": "2024-01-17T17:50:00",
+    "from": "Yelahanka",
+    "to": "Hebbal",
+    "fare": 15
+  },
+  {
+    "tid": "T1079",
+    "bus_id": "KA-29-LL-1010",
+    "route_id": "R-086",
+    "timestamp": "2024-01-17T18:10:00",
+    "from": "Hebbal",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1080",
+    "bus_id": "KA-30-MM-1212",
+    "route_id": "R-061",
+    "timestamp": "2024-01-18T08:00:00",
+    "from": "Yelahanka",
+    "to": "Nagawara",
+    "fare": 20
+  },
+  {
+    "tid": "T1081",
+    "bus_id": "KA-30-MM-1212",
+    "route_id": "R-061",
+    "timestamp": "2024-01-18T08:30:00",
+    "from": "Nagawara",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1082",
+    "bus_id": "KA-31-NN-3434",
+    "route_id": "R-018",
+    "timestamp": "2024-01-18T17:45:00",
+    "from": "Yelahanka",
+    "to": "Majestic",
+    "fare": 30
+  },
+  {
+    "tid": "T1083",
+    "bus_id": "KA-32-OO-5656",
+    "route_id": "R-052",
+    "timestamp": "2024-01-19T08:05:00",
+    "from": "Whitefield",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1084",
+    "bus_id": "KA-32-OO-5656",
+    "route_id": "R-052",
+    "timestamp": "2024-01-19T08:25:00",
+    "from": "Marathahalli",
+    "to": "Electronic City",
+    "fare": 30
+  },
+  {
+    "tid": "T1085",
+    "bus_id": "KA-33-PP-7878",
+    "route_id": "R-071",
+    "timestamp": "2024-01-19T17:30:00",
+    "from": "Yeshwanthpur",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1086",
+    "bus_id": "KA-34-QQ-9090",
+    "route_id": "R-064",
+    "timestamp": "2024-01-20T08:10:00",
+    "from": "Majestic",
+    "to": "Whitefield",
+    "fare": 35
+  },
+  {
+    "tid": "T1087",
+    "bus_id": "KA-35-RR-1111",
+    "route_id": "R-095",
+    "timestamp": "2024-01-20T17:20:00",
+    "from": "Vijayanagar",
+    "to": "Kengeri",
+    "fare": 15
+  },
+  {
+    "tid": "T1088",
+    "bus_id": "KA-36-SS-2222",
+    "route_id": "R-083",
+    "timestamp": "2024-01-21T08:00:00",
+    "from": "KR Puram",
+    "to": "Tin Factory",
+    "fare": 10
+  },
+  {
+    "tid": "T1089",
+    "bus_id": "KA-37-TT-3333",
+    "route_id": "R-070",
+    "timestamp": "2024-01-21T17:30:00",
+    "from": "KR Puram",
+    "to": "Banashankari",
+    "fare": 30
+  },
+  {
+    "tid": "T1090",
+    "bus_id": "KA-38-UU-4444",
+    "route_id": "R-037",
+    "timestamp": "2024-01-22T08:15:00",
+    "from": "Whitefield",
+    "to": "Silk Board",
+    "fare": 35
+  },
+  {
+    "tid": "T1091",
+    "bus_id": "KA-39-VV-5555",
+    "route_id": "R-086",
+    "timestamp": "2024-01-22T17:45:00",
+    "from": "Majestic",
+    "to": "Yelahanka",
+    "fare": 30
+  },
+  {
+    "tid": "T1092",
+    "bus_id": "KA-40-WW-6666",
+    "route_id": "R-061",
+    "timestamp": "2024-01-23T08:00:00",
+    "from": "Hebbal",
+    "to": "Whitefield",
+    "fare": 35
+  },
+  {
+    "tid": "T1093",
+    "bus_id": "KA-41-XX-7777",
+    "route_id": "R-018",
+    "timestamp": "2024-01-23T17:30:00",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 30
+  },
+  {
+    "tid": "T1094",
+    "bus_id": "KA-42-YY-8888",
+    "route_id": "R-052",
+    "timestamp": "2024-01-24T08:10:00",
+    "from": "Electronic City",
+    "to": "Whitefield",
+    "fare": 40
+  },
+  {
+    "tid": "T1095",
+    "bus_id": "KA-43-ZZ-9999",
+    "route_id": "R-071",
+    "timestamp": "2024-01-24T17:20:00",
+    "from": "Majestic",
+    "to": "Kengeri",
+    "fare": 25
+  },
+  {
+    "tid": "T1096",
+    "bus_id": "KA-44-AA-0001",
+    "route_id": "R-064",
+    "timestamp": "2024-01-25T08:00:00",
+    "from": "MG Road",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1097",
+    "bus_id": "KA-45-BB-0002",
+    "route_id": "R-095",
+    "timestamp": "2024-01-25T17:40:00",
+    "from": "Banashankari",
+    "to": "Kengeri",
+    "fare": 20
+  },
+  {
+    "tid": "T1098",
+    "bus_id": "KA-46-CC-0003",
+    "route_id": "R-083",
+    "timestamp": "2024-01-26T08:05:00",
+    "from": "Whitefield",
+    "to": "KR Puram",
+    "fare": 15
+  },
+  {
+    "tid": "T1099",
+    "bus_id": "KA-47-DD-0004",
+    "route_id": "R-070",
+    "timestamp": "2024-01-26T17:30:00",
+    "from": "BTM",
+    "to": "KR Puram",
+    "fare": 30
+  },
+  {
+    "tid": "T1150",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T06:06:00",
+    "from": "Yeshwanthpur",
+    "to": "BTM",
+    "fare": 25
+  },
+  {
+    "tid": "T1151",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T06:05:00",
+    "from": "Koramangala",
+    "to": "Hebbal",
+    "fare": 10
+  },
+  {
+    "tid": "T1152",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T06:19:00",
+    "from": "Banashankari",
+    "to": "KR Puram",
+    "fare": 25
+  },
+  {
+    "tid": "T1153",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T06:25:00",
+    "from": "BTM",
+    "to": "Hebbal",
+    "fare": 35
+  },
+  {
+    "tid": "T1154",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T06:29:00",
+    "from": "Kengeri",
+    "to": "Vijayanagar",
+    "fare": 30
+  },
+  {
+    "tid": "T1155",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T06:33:00",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 35
+  },
+  {
+    "tid": "T1156",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T06:34:00",
+    "from": "Electronic City",
+    "to": "KR Puram",
+    "fare": 35
+  },
+  {
+    "tid": "T1157",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T06:45:00",
+    "from": "BTM",
+    "to": "Marathahalli",
+    "fare": 30
+  },
+  {
+    "tid": "T1158",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T06:46:00",
+    "from": "Jayanagar",
+    "to": "Marathahalli",
+    "fare": 10
+  },
+  {
+    "tid": "T1159",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T06:53:00",
+    "from": "Jayanagar",
+    "to": "KR Puram",
+    "fare": 25
+  },
+  {
+    "tid": "T1160",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T07:00:00",
+    "from": "Vijayanagar",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T1161",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T07:03:00",
+    "from": "Yeshwanthpur",
+    "to": "Hebbal",
+    "fare": 35
+  },
+  {
+    "tid": "T1162",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T07:06:00",
+    "from": "BTM",
+    "to": "Indiranagar",
+    "fare": 40
+  },
+  {
+    "tid": "T1163",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T07:10:00",
+    "from": "Vijayanagar",
+    "to": "Kengeri",
+    "fare": 25
+  },
+  {
+    "tid": "T1164",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T07:20:00",
+    "from": "Yeshwanthpur",
+    "to": "BTM",
+    "fare": 30
+  },
+  {
+    "tid": "T1165",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T07:19:00",
+    "from": "Banashankari",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1166",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T07:23:00",
+    "from": "Silk Board",
+    "to": "Yeshwanthpur",
+    "fare": 30
+  },
+  {
+    "tid": "T1167",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T07:26:00",
+    "from": "Koramangala",
+    "to": "Yeshwanthpur",
+    "fare": 35
+  },
+  {
+    "tid": "T1168",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T07:40:00",
+    "from": "Electronic City",
+    "to": "Koramangala",
+    "fare": 40
+  },
+  {
+    "tid": "T1169",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T07:37:00",
+    "from": "BTM",
+    "to": "Koramangala",
+    "fare": 35
+  },
+  {
+    "tid": "T1170",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T07:48:00",
+    "from": "Banashankari",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1171",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T07:53:00",
+    "from": "Banashankari",
+    "to": "Silk Board",
+    "fare": 10
+  },
+  {
+    "tid": "T1172",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T08:00:00",
+    "from": "Koramangala",
+    "to": "KR Puram",
+    "fare": 35
+  },
+  {
+    "tid": "T1173",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T08:01:00",
+    "from": "Kengeri",
+    "to": "KR Puram",
+    "fare": 25
+  },
+  {
+    "tid": "T1174",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T08:06:00",
+    "from": "Majestic",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1175",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T08:06:00",
+    "from": "Marathahalli",
+    "to": "Hebbal",
+    "fare": 20
+  },
+  {
+    "tid": "T1176",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T08:11:00",
+    "from": "Banashankari",
+    "to": "Kengeri",
+    "fare": 15
+  },
+  {
+    "tid": "T1177",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T08:18:00",
+    "from": "Whitefield",
+    "to": "Yeshwanthpur",
+    "fare": 25
+  },
+  {
+    "tid": "T1178",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T08:22:00",
+    "from": "KR Puram",
+    "to": "Jayanagar",
+    "fare": 10
+  },
+  {
+    "tid": "T1179",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T08:33:00",
+    "from": "Electronic City",
+    "to": "Whitefield",
+    "fare": 20
+  },
+  {
+    "tid": "T1180",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T08:34:00",
+    "from": "Marathahalli",
+    "to": "Jayanagar",
+    "fare": 30
+  },
+  {
+    "tid": "T1181",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T08:38:00",
+    "from": "Koramangala",
+    "to": "Yeshwanthpur",
+    "fare": 15
+  },
+  {
+    "tid": "T1182",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T08:50:00",
+    "from": "Koramangala",
+    "to": "Yeshwanthpur",
+    "fare": 30
+  },
+  {
+    "tid": "T1183",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T08:55:00",
+    "from": "Majestic",
+    "to": "Vijayanagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1184",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T08:53:00",
+    "from": "KR Puram",
+    "to": "Kengeri",
+    "fare": 20
+  },
+  {
+    "tid": "T1185",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T09:03:00",
+    "from": "Jayanagar",
+    "to": "Hebbal",
+    "fare": 35
+  },
+  {
+    "tid": "T1186",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T09:03:00",
+    "from": "Marathahalli",
+    "to": "KR Puram",
+    "fare": 35
+  },
+  {
+    "tid": "T1187",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T09:06:00",
+    "from": "BTM",
+    "to": "Electronic City",
+    "fare": 30
+  },
+  {
+    "tid": "T1188",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T09:20:00",
+    "from": "Whitefield",
+    "to": "Banashankari",
+    "fare": 40
+  },
+  {
+    "tid": "T1189",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T09:20:00",
+    "from": "BTM",
+    "to": "Hebbal",
+    "fare": 10
+  },
+  {
+    "tid": "T1190",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T09:21:00",
+    "from": "Kengeri",
+    "to": "Hebbal",
+    "fare": 35
+  },
+  {
+    "tid": "T1191",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T09:25:00",
+    "from": "Hebbal",
+    "to": "Indiranagar",
+    "fare": 20
+  },
+  {
+    "tid": "T1192",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T09:31:00",
+    "from": "Marathahalli",
+    "to": "Indiranagar",
+    "fare": 10
+  },
+  {
+    "tid": "T1193",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T09:42:00",
+    "from": "Hebbal",
+    "to": "KR Puram",
+    "fare": 10
+  },
+  {
+    "tid": "T1194",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T09:45:00",
+    "from": "Hebbal",
+    "to": "Yeshwanthpur",
+    "fare": 30
+  },
+  {
+    "tid": "T1195",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T09:50:00",
+    "from": "Vijayanagar",
+    "to": "Electronic City",
+    "fare": 35
+  },
+  {
+    "tid": "T1196",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T09:55:00",
+    "from": "Kengeri",
+    "to": "Koramangala",
+    "fare": 10
+  },
+  {
+    "tid": "T1197",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T09:58:00",
+    "from": "Jayanagar",
+    "to": "Koramangala",
+    "fare": 30
+  },
+  {
+    "tid": "T1198",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T10:06:00",
+    "from": "Malleswaram",
+    "to": "Hebbal",
+    "fare": 20
+  },
+  {
+    "tid": "T1199",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T10:11:00",
+    "from": "Vijayanagar",
+    "to": "Yeshwanthpur",
+    "fare": 20
+  },
+  {
+    "tid": "T1200",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T10:12:00",
+    "from": "Electronic City",
+    "to": "Yeshwanthpur",
+    "fare": 20
+  },
+  {
+    "tid": "T1201",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T10:21:00",
+    "from": "Electronic City",
+    "to": "Banashankari",
+    "fare": 25
+  },
+  {
+    "tid": "T1202",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T10:20:00",
+    "from": "Kengeri",
+    "to": "Yeshwanthpur",
+    "fare": 20
+  },
+  {
+    "tid": "T1203",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T10:25:00",
+    "from": "KR Puram",
+    "to": "Koramangala",
+    "fare": 30
+  },
+  {
+    "tid": "T1204",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T10:31:00",
+    "from": "Koramangala",
+    "to": "Kengeri",
+    "fare": 20
+  },
+  {
+    "tid": "T1205",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T10:36:00",
+    "from": "Hebbal",
+    "to": "Silk Board",
+    "fare": 40
+  },
+  {
+    "tid": "T1206",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T10:47:00",
+    "from": "Hebbal",
+    "to": "BTM",
+    "fare": 35
+  },
+  {
+    "tid": "T1207",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T10:53:00",
+    "from": "Silk Board",
+    "to": "KR Puram",
+    "fare": 40
+  },
+  {
+    "tid": "T1208",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T10:51:00",
+    "from": "Indiranagar",
+    "to": "Vijayanagar",
+    "fare": 10
+  },
+  {
+    "tid": "T1209",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T10:55:00",
+    "from": "Hebbal",
+    "to": "Electronic City",
+    "fare": 30
+  },
+  {
+    "tid": "T1210",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T11:06:00",
+    "from": "Marathahalli",
+    "to": "Banashankari",
+    "fare": 30
+  },
+  {
+    "tid": "T1211",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T11:07:00",
+    "from": "Vijayanagar",
+    "to": "Hebbal",
+    "fare": 10
+  },
+  {
+    "tid": "T1212",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T11:15:00",
+    "from": "Indiranagar",
+    "to": "Kengeri",
+    "fare": 15
+  },
+  {
+    "tid": "T1213",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T11:24:00",
+    "from": "BTM",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1214",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T11:22:00",
+    "from": "Electronic City",
+    "to": "Malleswaram",
+    "fare": 40
+  },
+  {
+    "tid": "T1215",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T11:31:00",
+    "from": "Silk Board",
+    "to": "Koramangala",
+    "fare": 20
+  },
+  {
+    "tid": "T1216",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T11:37:00",
+    "from": "Koramangala",
+    "to": "Electronic City",
+    "fare": 25
+  },
+  {
+    "tid": "T1217",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T11:43:00",
+    "from": "Whitefield",
+    "to": "Koramangala",
+    "fare": 15
+  },
+  {
+    "tid": "T1218",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T11:42:00",
+    "from": "Jayanagar",
+    "to": "Electronic City",
+    "fare": 20
+  },
+  {
+    "tid": "T1219",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T11:51:00",
+    "from": "Marathahalli",
+    "to": "Majestic",
+    "fare": 40
+  },
+  {
+    "tid": "T1220",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T11:58:00",
+    "from": "Jayanagar",
+    "to": "Marathahalli",
+    "fare": 25
+  },
+  {
+    "tid": "T1221",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T12:03:00",
+    "from": "Malleswaram",
+    "to": "Hebbal",
+    "fare": 30
+  },
+  {
+    "tid": "T1222",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T12:08:00",
+    "from": "Vijayanagar",
+    "to": "Silk Board",
+    "fare": 20
+  },
+  {
+    "tid": "T1223",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T12:09:00",
+    "from": "Kengeri",
+    "to": "KR Puram",
+    "fare": 30
+  },
+  {
+    "tid": "T1224",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T12:13:00",
+    "from": "Vijayanagar",
+    "to": "Silk Board",
+    "fare": 15
+  },
+  {
+    "tid": "T1225",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T12:22:00",
+    "from": "Koramangala",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1226",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T12:25:00",
+    "from": "Whitefield",
+    "to": "BTM",
+    "fare": 40
+  },
+  {
+    "tid": "T1227",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T12:28:00",
+    "from": "Yeshwanthpur",
+    "to": "Banashankari",
+    "fare": 40
+  },
+  {
+    "tid": "T1228",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T12:35:00",
+    "from": "Electronic City",
+    "to": "Whitefield",
+    "fare": 40
+  },
+  {
+    "tid": "T1229",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T12:41:00",
+    "from": "Koramangala",
+    "to": "Banashankari",
+    "fare": 35
+  },
+  {
+    "tid": "T1230",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T12:48:00",
+    "from": "Yeshwanthpur",
+    "to": "Indiranagar",
+    "fare": 40
+  },
+  {
+    "tid": "T1231",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T12:45:00",
+    "from": "BTM",
+    "to": "Electronic City",
+    "fare": 20
+  },
+  {
+    "tid": "T1232",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T13:00:00",
+    "from": "Silk Board",
+    "to": "Marathahalli",
+    "fare": 25
+  },
+  {
+    "tid": "T1233",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T12:57:00",
+    "from": "BTM",
+    "to": "Hebbal",
+    "fare": 40
+  },
+  {
+    "tid": "T1234",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T13:05:00",
+    "from": "Whitefield",
+    "to": "BTM",
+    "fare": 25
+  },
+  {
+    "tid": "T1235",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T13:13:00",
+    "from": "Malleswaram",
+    "to": "BTM",
+    "fare": 25
+  },
+  {
+    "tid": "T1236",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T13:16:00",
+    "from": "Hebbal",
+    "to": "Banashankari",
+    "fare": 20
+  },
+  {
+    "tid": "T1237",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T13:19:00",
+    "from": "Koramangala",
+    "to": "Hebbal",
+    "fare": 30
+  },
+  {
+    "tid": "T1238",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T13:22:00",
+    "from": "Banashankari",
+    "to": "Kengeri",
+    "fare": 25
+  },
+  {
+    "tid": "T1239",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T13:35:00",
+    "from": "Vijayanagar",
+    "to": "Marathahalli",
+    "fare": 35
+  },
+  {
+    "tid": "T1240",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T13:39:00",
+    "from": "Kengeri",
+    "to": "Hebbal",
+    "fare": 20
+  },
+  {
+    "tid": "T1241",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T13:35:00",
+    "from": "BTM",
+    "to": "Kengeri",
+    "fare": 30
+  },
+  {
+    "tid": "T1242",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T13:40:00",
+    "from": "Yeshwanthpur",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1243",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T13:54:00",
+    "from": "Hebbal",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1244",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T13:50:00",
+    "from": "Jayanagar",
+    "to": "Malleswaram",
+    "fare": 30
+  },
+  {
+    "tid": "T1245",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T14:04:00",
+    "from": "Indiranagar",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T1246",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T14:08:00",
+    "from": "Majestic",
+    "to": "Koramangala",
+    "fare": 35
+  },
+  {
+    "tid": "T1247",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T14:05:00",
+    "from": "Malleswaram",
+    "to": "Jayanagar",
+    "fare": 35
+  },
+  {
+    "tid": "T1248",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T14:18:00",
+    "from": "Koramangala",
+    "to": "Electronic City",
+    "fare": 40
+  },
+  {
+    "tid": "T1249",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T14:22:00",
+    "from": "Jayanagar",
+    "to": "Malleswaram",
+    "fare": 40
+  },
+  {
+    "tid": "T1250",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T14:30:00",
+    "from": "Koramangala",
+    "to": "Indiranagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1251",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T14:35:00",
+    "from": "Hebbal",
+    "to": "Banashankari",
+    "fare": 35
+  },
+  {
+    "tid": "T1252",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T14:42:00",
+    "from": "Whitefield",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1253",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T14:50:00",
+    "from": "Majestic",
+    "to": "Yeshwanthpur",
+    "fare": 15
+  },
+  {
+    "tid": "T1254",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T14:55:00",
+    "from": "Electronic City",
+    "to": "Silk Board",
+    "fare": 25
+  },
+  {
+    "tid": "T1255",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T15:02:00",
+    "from": "KR Puram",
+    "to": "BTM",
+    "fare": 30
+  },
+  {
+    "tid": "T1256",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T15:10:00",
+    "from": "Banashankari",
+    "to": "Jayanagar",
+    "fare": 10
+  },
+  {
+    "tid": "T1257",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T15:18:00",
+    "from": "Vijayanagar",
+    "to": "Kengeri",
+    "fare": 20
+  },
+  {
+    "tid": "T1258",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T15:25:00",
+    "from": "Malleswaram",
+    "to": "Majestic",
+    "fare": 15
+  },
+  {
+    "tid": "T1259",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T15:32:00",
+    "from": "Indiranagar",
+    "to": "Whitefield",
+    "fare": 30
+  },
+  {
+    "tid": "T1260",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T15:40:00",
+    "from": "Marathahalli",
+    "to": "KR Puram",
+    "fare": 25
+  },
+  {
+    "tid": "T1261",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T15:48:00",
+    "from": "Yeshwanthpur",
+    "to": "Hebbal",
+    "fare": 20
+  },
+  {
+    "tid": "T1262",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T15:55:00",
+    "from": "Jayanagar",
+    "to": "BTM",
+    "fare": 15
+  },
+  {
+    "tid": "T1263",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T16:03:00",
+    "from": "Silk Board",
+    "to": "Koramangala",
+    "fare": 10
+  },
+  {
+    "tid": "T1264",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T16:12:00",
+    "from": "BTM",
+    "to": "Electronic City",
+    "fare": 35
+  },
+  {
+    "tid": "T1265",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T16:20:00",
+    "from": "Whitefield",
+    "to": "Indiranagar",
+    "fare": 25
+  },
+  {
+    "tid": "T1266",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T16:28:00",
+    "from": "Banashankari",
+    "to": "Vijayanagar",
+    "fare": 20
+  },
+  {
+    "tid": "T1267",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T16:35:00",
+    "from": "Majestic",
+    "to": "Malleswaram",
+    "fare": 10
+  },
+  {
+    "tid": "T1268",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T16:42:00",
+    "from": "Kengeri",
+    "to": "Yeshwanthpur",
+    "fare": 40
+  },
+  {
+    "tid": "T1269",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T16:50:00",
+    "from": "KR Puram",
+    "to": "Hebbal",
+    "fare": 15
+  },
+  {
+    "tid": "T1270",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T16:58:00",
+    "from": "Marathahalli",
+    "to": "Whitefield",
+    "fare": 15
+  },
+  {
+    "tid": "T1271",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T17:05:00",
+    "from": "Hebbal",
+    "to": "Majestic",
+    "fare": 25
+  },
+  {
+    "tid": "T1272",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T17:12:00",
+    "from": "BTM",
+    "to": "Banashankari",
+    "fare": 20
+  },
+  {
+    "tid": "T1273",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T17:20:00",
+    "from": "Koramangala",
+    "to": "Silk Board",
+    "fare": 10
+  },
+  {
+    "tid": "T1274",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T17:28:00",
+    "from": "Electronic City",
+    "to": "KR Puram",
+    "fare": 45
+  },
+  {
+    "tid": "T1275",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T17:35:00",
+    "from": "Indiranagar",
+    "to": "Marathahalli",
+    "fare": 20
+  },
+  {
+    "tid": "T1276",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T17:42:00",
+    "from": "Vijayanagar",
+    "to": "Malleswaram",
+    "fare": 15
+  },
+  {
+    "tid": "T1277",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T17:50:00",
+    "from": "Majestic",
+    "to": "Jayanagar",
+    "fare": 25
+  },
+  {
+    "tid": "T1278",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T17:58:00",
+    "from": "Yeshwanthpur",
+    "to": "Kengeri",
+    "fare": 35
+  },
+  {
+    "tid": "T1279",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T18:05:00",
+    "from": "Hebbal",
+    "to": "BTM",
+    "fare": 40
+  },
+  {
+    "tid": "T1280",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T18:12:00",
+    "from": "Whitefield",
+    "to": "KR Puram",
+    "fare": 15
+  },
+  {
+    "tid": "T1281",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T18:20:00",
+    "from": "Majestic",
+    "to": "Silk Board",
+    "fare": 30
+  },
+  {
+    "tid": "T1282",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T18:28:00",
+    "from": "Banashankari",
+    "to": "Koramangala",
+    "fare": 25
+  },
+  {
+    "tid": "T1283",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T18:35:00",
+    "from": "Indiranagar",
+    "to": "Electronic City",
+    "fare": 35
+  },
+  {
+    "tid": "T1284",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T18:42:00",
+    "from": "KR Puram",
+    "to": "Marathahalli",
+    "fare": 15
+  },
+  {
+    "tid": "T1285",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T18:50:00",
+    "from": "Whitefield",
+    "to": "BTM",
+    "fare": 40
+  },
+  {
+    "tid": "T1286",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T18:58:00",
+    "from": "Malleswaram",
+    "to": "Vijayanagar",
+    "fare": 20
+  },
+  {
+    "tid": "T1287",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T19:05:00",
+    "from": "Jayanagar",
+    "to": "Majestic",
+    "fare": 25
+  },
+  {
+    "tid": "T1288",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T19:12:00",
+    "from": "Kengeri",
+    "to": "Banashankari",
+    "fare": 15
+  },
+  {
+    "tid": "T1289",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T19:20:00",
+    "from": "BTM",
+    "to": "Hebbal",
+    "fare": 40
+  },
+  {
+    "tid": "T1290",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T19:28:00",
+    "from": "KR Puram",
+    "to": "Whitefield",
+    "fare": 15
+  },
+  {
+    "tid": "T1291",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T19:35:00",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 30
+  },
+  {
+    "tid": "T1292",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T19:42:00",
+    "from": "Koramangala",
+    "to": "Banashankari",
+    "fare": 25
+  },
+  {
+    "tid": "T1293",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T19:50:00",
+    "from": "Electronic City",
+    "to": "Indiranagar",
+    "fare": 35
+  },
+  {
+    "tid": "T1294",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T19:58:00",
+    "from": "Marathahalli",
+    "to": "KR Puram",
+    "fare": 15
+  },
+  {
+    "tid": "T1295",
+    "bus_id": "KA-35-M-6944",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T20:05:00",
+    "from": "BTM",
+    "to": "Whitefield",
+    "fare": 40
+  },
+  {
+    "tid": "T1296",
+    "bus_id": "KA-02-Z-8723",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T20:12:00",
+    "from": "Vijayanagar",
+    "to": "Malleswaram",
+    "fare": 20
+  },
+  {
+    "tid": "T1297",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T20:20:00",
+    "from": "Majestic",
+    "to": "Jayanagar",
+    "fare": 25
+  },
+  {
+    "tid": "T1298",
+    "bus_id": "KA-22-NT-9291",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T20:28:00",
+    "from": "Banashankari",
+    "to": "Kengeri",
+    "fare": 15
+  },
+  {
+    "tid": "T1299",
+    "bus_id": "KA-02-Y-0159",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T20:35:00",
+    "from": "Hebbal",
+    "to": "BTM",
+    "fare": 40
+  },
+  {
+    "tid": "T1300",
+    "bus_id": "KA-18-HT-8466",
+    "route_id": "R-500D",
+    "timestamp": "2024-01-12T20:42:00",
+    "from": "Marathahalli",
+    "to": "Electronic City",
+    "fare": 30
+  },
+  {
+    "tid": "T1301",
+    "bus_id": "KA-22-W-7547",
+    "route_id": "R-KBS-1",
+    "timestamp": "2024-01-12T20:50:00",
+    "from": "Majestic",
+    "to": "Vijayanagar",
+    "fare": 15
+  },
+  {
+    "tid": "T1302",
+    "bus_id": "KA-03-W-1087",
+    "route_id": "R-201",
+    "timestamp": "2024-01-12T20:58:00",
+    "from": "Jayanagar",
+    "to": "Koramangala",
+    "fare": 20
+  },
+  {
+    "tid": "T1303",
+    "bus_id": "KA-11-Y-3231",
+    "route_id": "R-335E",
+    "timestamp": "2024-01-12T21:05:00",
+    "from": "Whitefield",
+    "to": "KR Puram",
+    "fare": 20
+  },
+  {
+    "tid": "T1304",
+    "bus_id": "KA-50-G-2215",
+    "route_id": "R-V-500C",
+    "timestamp": "2024-01-12T21:12:00",
+    "from": "BTM",
+    "to": "Silk Board",
+    "fare": 10
+  },
+  {
+    "tid": "T1305",
+    "bus_id": "KA-27-HI-2140",
+    "route_id": "R-MF-12",
+    "timestamp": "2024-01-12T21:20:00",
+    "from": "Malleswaram",
+    "to": "Yeshwanthpur",
+    "fare": 15
+  },
+  {
+    "tid": "T-20260102121815984123",
+    "bus_id": "KA-01-F-4532",
+    "route_id": "335E",
+    "timestamp": "2026-01-02T12:18:15.984176",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T-20260102121815984193",
+    "bus_id": "KA-01-F-4532",
+    "route_id": "335E",
+    "timestamp": "2026-01-02T12:18:15.984228",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 20
+  },
+  {
+    "tid": "T-20260102121815984234",
+    "bus_id": "KA-01-F-4532",
+    "route_id": "335E",
+    "timestamp": "2026-01-02T12:18:15.984243",
+    "from": "Silk Board",
+    "to": "Majestic",
+    "fare": 20
+  }
+]

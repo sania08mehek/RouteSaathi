@@ -1,0 +1,21 @@
+[
+    {
+        "id": "N001",
+        "timestamp": "2025-01-02T10:15:00",
+        "sender": "U001",
+        "type": "BROADCAST",
+        "priority": "MEDIUM",
+        "message": "Good morning all conductors. Please ensure safe driving today. Weather is clear.",
+        "status": "SENT"
+    },
+    {
+        "id": "N002",
+        "timestamp": "2025-01-02T09:30:00",
+        "sender": "U002",
+        "type": "TRAFFIC",
+        "priority": "MEDIUM",
+        "message": "Heavy traffic reported at Silk Board junction. Expect 15 min delay.",
+        "status": "ACTIVE",
+        "bus_id": "KA-01-F-4532"
+    }
+]

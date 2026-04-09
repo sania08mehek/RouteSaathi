@@ -1,0 +1,70 @@
+[
+    {
+        "id": "U001",
+        "name": "Admin Controller",
+        "email": "admin@bmtc.gov.in",
+        "password": "admin123",
+        "role": "coordinator"
+    },
+    {
+        "id": "U002",
+        "name": "Ganesh Rao",
+        "email": "ganesh@bmtc.gov.in",
+        "password": "conductor123",
+        "role": "conductor",
+        "bus_id": "KA-01-F-4532",
+        "route_id": "335E"
+    },
+    {
+        "id": "U003",
+        "name": "Ramesh Kumar",
+        "email": "ramesh@bmtc.gov.in",
+        "password": "conductor123",
+        "role": "conductor",
+        "bus_id": "KA-22-W-7547",
+        "route_id": "R-KBS-1"
+    },
+    {
+        "id": "U004",
+        "name": "Suresh Reddy",
+        "email": "suresh@bmtc.gov.in",
+        "password": "conductor123",
+        "role": "conductor",
+        "bus_id": "KA-03-W-1087",
+        "route_id": "R-201"
+    },
+    {
+        "id": "U005",
+        "name": "Prakash M",
+        "email": "prakash@bmtc.gov.in",
+        "password": "conductor123",
+        "role": "conductor",
+        "bus_id": "KA-01-F-3421",
+        "route_id": "G-10"
+    },
+    {
+        "id": "U006",
+        "name": "Anil S",
+        "email": "anil@bmtc.gov.in",
+        "password": "conductor123",
+        "role": "conductor",
+        "bus_id": "KA-01-F-5678",
+        "route_id": "R-500D"
+    },
+    {
+        "id": "U007",
+        "name": "Venkatesh",
+        "email": "venkatesh@bmtc.gov.in",
+        "password": "conductor123",
+        "role": "conductor",
+        "bus_id": "KA-01-F-7890",
+        "route_id": "R-365C"
+    },
+    {
+        "id": "U008",
+        "name": "Passenger User",
+        "email": "user@gmail.com",
+        "password": "user123",
+        "role": "commuter"
+    }
+]
