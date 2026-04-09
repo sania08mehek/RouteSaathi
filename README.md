@@ -2,7 +2,8 @@
 
 RouteSaathi 2.0 is a comprehensive, AI-powered fleet management solution designed for the Bengaluru Metropolitan Transport Corporation (BMTC). It optimizes public transport operations by providing real-time tracking, ML-based demand forecasting, and role-specific interfaces for Coordinators, Conductors, and Passengers.
 
-![RouteSaathi Logo](frontend/src/assets/RouteSaathi_logo.svg)
+<img src="RouteSaathi-2.0-main/frontend/src/assets/RouteSaathi_logo.svg" alt="Logo" width="600">
+
 
 ## 🚀 Key Features
 
